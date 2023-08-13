@@ -19,7 +19,7 @@ def process_text(paragraph):
     words = [word for word, pos in pos_tags if pos != 'NNP' and pos != 'NNPS']
     
     # Remove punctuation
-    words = [word for word in words if word not in string.punctuation and (word != '’' or word != '‘' or word != '“' or word != '”')]
+    words = [word for word in words if word not in string.punctuation and (word != "’" and word != "‘" and word != "“" and word != "”")]
     
     # Return the processed words and their positions
     return [(word, word_positions[word]) for word in words]
