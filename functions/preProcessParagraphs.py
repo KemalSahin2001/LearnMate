@@ -1,151 +1,27 @@
-<<<<<<< HEAD
 import nltk
 from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize, sent_tokenize
 import string
 import re
 
-def expand_contractions(text, contraction_mapping):
-    contractions_pattern = re.compile('({})'.format('|'.join(contraction_mapping.keys())), 
-                                      flags=re.IGNORECASE|re.DOTALL)
-    
-    def expand_match(contraction):
-        match = contraction.group(0)
-        first_char = match[0]
-        expanded_contraction = contraction_mapping.get(match) if contraction_mapping.get(match) else contraction_mapping.get(match.lower())                       
-        expanded_contraction = first_char + expanded_contraction[1:]
-        return expanded_contraction
-        
-    expanded_text = contractions_pattern.sub(expand_match, text)
-    expanded_text = re.sub("'", "", expanded_text)
-    return expanded_text
+import unicodedata
+
+punctuations = []
+
+for i in range(0xFFFF):  # You can increase this range if necessary
+    char = chr(i)
+    if unicodedata.category(char).startswith('P'):
+        punctuations.append(char)
 
 def process_text(paragraph):
-    CONTRACTION_MAP = {
-        "ain't": "is not",
-        "aren't": "are not",
-        "can't": "cannot",
-        "can't've": "cannot have",
-        "'cause": "because",
-        "could've": "could have",
-        "couldn't": "could not",
-        "couldn't've": "could not have",
-        "didn't": "did not",
-        "doesn't": "does not",
-        "don't": "do not",
-        "hadn't": "had not",
-        "hadn't've": "had not have",
-        "hasn't": "has not",
-        "haven't": "have not",
-        "he'd": "he would",
-        "he'd've": "he would have",
-        "he'll": "he will",
-        "he'll've": "he he will have",
-        "he's": "he is",
-        "how'd": "how did",
-        "how'd'y": "how do you",
-        "how'll": "how will",
-        "how's": "how is",
-        "I'd": "I would",
-        "I'd've": "I would have",
-        "I'll": "I will",
-        "I'll've": "I will have",
-        "I'm": "I am",
-        "I've": "I have",
-        "it'd": "it would",
-        "it'd've": "it would have",
-        "it'll": "it will",
-        "it'll've": "it will have",
-        "it's": "it is",
-        "let's": "let us",
-        "ma'am": "madam",
-        "mayn't": "may not",
-        "might've": "might have",
-        "mightn't": "might not",
-        "mightn't've": "might not have",
-        "must've": "must have",
-        "mustn't": "must not",
-        "mustn't've": "must not have",
-        "needn't": "need not",
-        "needn't've": "need not have",
-        "o'clock": "of the clock",
-        "oughtn't": "ought not",
-        "oughtn't've": "ought not have",
-        "shan't": "shall not",
-        "sha'n't": "shall not",
-        "shan't've": "shall not have",
-        "she'd": "she would",
-        "she'd've": "she would have",
-        "she'll": "she will",
-        "she'll've": "she will have",
-        "she's": "she is",
-        "should've": "should have",
-        "shouldn't": "should not",
-        "shouldn't've": "should not have",
-        "so've": "so have",
-        "so's": "so as",
-        "that'd": "that would",
-        "that'd've": "that would have",
-        "that's": "that is",
-        "there'd": "there would",
-        "there'd've": "there would have",
-        "there's": "there is",
-        "they'd": "they would",
-        "they'd've": "they would have",
-        "they'll": "they will",
-        "they'll've": "they will have",
-        "they're": "they are",
-        "they've": "they have",
-        "to've": "to have",
-        "wasn't": "was not",
-        "we'd": "we would",
-        "we'd've": "we would have",
-        "we'll": "we will",
-        "we'll've": "we will have",
-        "we're": "we are",
-        "we've": "we have",
-        "weren't": "were not",
-        "what'll": "what will",
-        "what'll've": "what will have",
-        "what're": "what are",
-        "what's": "what is",
-        "what've": "what have",
-        "when's": "when is",
-        "when've": "when have",
-        "where'd": "where did",
-        "where's": "where is",
-        "where've": "where have",
-        "who'll": "who will",
-        "who'll've": "who will have",
-        "who's": "who is",
-        "who've": "who have",
-        "why's": "why is",
-        "why've": "why have",
-        "will've": "will have",
-        "won't": "will not",
-        "won't've": "will not have",
-        "would've": "would have",
-        "wouldn't": "would not",
-        "wouldn't've": "would not have",
-        "y'all": "you all",
-        "y'all'd": "you all would",
-        "y'all'd've": "you all would have",
-        "y'all're": "you all are",
-        "y'all've": "you all have",
-        "you'd": "you would",
-        "you'd've": "you would have",
-        "you'll": "you will",
-        "you'll've": "you will have",
-        "you're": "you are",
-        "you've": "you have"
-    }
-
-    paragraph = expand_contractions(paragraph, CONTRACTION_MAP)
-    # Tokenize the paragraph and keep track of start index of each word
-    words = word_tokenize(paragraph)
+    # Tokenize the paragraph without splitting contractions
+    words = re.findall(r"\b\w+\b", paragraph)
     
     # Calculate the starting position of each word in the original paragraph
-    word_positions = {word: paragraph.find(word) for word in words}
+    word_positions = {}
+    last_index = 0
+    for word in words:
+        word_positions[word] = paragraph.find(word, last_index)
+        last_index = word_positions[word] + len(word)
     
     # Remove stopwords
     stop_words = set(stopwords.words('english'))
@@ -156,33 +32,7 @@ def process_text(paragraph):
     words = [word for word, pos in pos_tags if pos != 'NNP' and pos != 'NNPS']
     
     # Remove punctuation
-    words = [word for word in words if word not in string.punctuation and (word != "’" and word != "‘" and word != "“" and word != "”")]
+    words = [word for word in words if word not in punctuations]
     
     # Return the processed words and their positions
-=======
-import nltk
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize, sent_tokenize
-import string
-
-def process_text(paragraph):
-    # Tokenize the paragraph and keep track of start index of each word
-    words = word_tokenize(paragraph)
-    
-    # Calculate the starting position of each word in the original paragraph
-    word_positions = {word: paragraph.find(word) for word in words}
-    
-    # Remove stopwords
-    stop_words = set(stopwords.words('english'))
-    words = [word for word in words if word.lower() not in stop_words]
-    
-    # Identify and remove proper nouns
-    pos_tags = nltk.pos_tag(words)
-    words = [word for word, pos in pos_tags if pos != 'NNP' and pos != 'NNPS']
-    
-    # Remove punctuation
-    words = [word for word in words if word not in string.punctuation and (word != "’" and word != "‘" and word != "“" and word != "”")]
-    
-    # Return the processed words and their positions
->>>>>>> f1734df09e31539628f06a21680ebfcb188f5814
     return [(word, word_positions[word]) for word in words]
