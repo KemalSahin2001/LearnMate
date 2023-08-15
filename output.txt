@@ -1,0 +1,541 @@
+Keywords: ('preliminary performance', 'duplex balance', 'considerable food', 'disappointment', 'construction')
+Paragraph: A murmur arose, in which surprise and disappointment were intermingled.
+One fat gentleman, who had been patiently waiting for two hours,
+exclaimed: “Why, it’s only a sort of automobile, with crossed airplanes
+set over it! I thought they claimed the thing could fly.” Those who knew
+something of aviation, however, were the ones astonished at Steve’s
+preliminary performance. They realized the advantage of being able to
+drive an aëroplane on its own wheels, as an automobile goes, in case of
+emergencies, and moreover the “crossed planes”—a distinct innovation in
+construction—gave them considerable food for thought. Usually the two
+surfaces, or floats, of a biplane are exactly parallel, one above the
+other; but in Steve’s machine the upper plane ran fore and aft, while
+the lower one extended sidewise. At a glance it was possible to see the
+advantage of this arrangement as a duplex balance, which, with the
+swinging wing-ends, comprised the safety device that the inventor
+believed made his aëroplane superior to any other.
+Words you probably do not know: patiently, inventor, preliminary, innovation, lower
+CEFR level: C2
+Buttons: [('A', 0), ('murmur', 2), ('arose', 9), ('in', 16), ('which', 19), ('surprise', 25), ('and', 34), ('disappointment', 38), ('were', 53), ('intermingled', 58), ('One', 72), ('fat', 76), ('gentleman', 80), ('who', 91), ('had', 95), ('been', 99), ('patiently', 104), ('waiting', 114), ('for', 122), ('two', 126), ('hours', 130), ('exclaimed', 137), ('Why', 149), ('it’s', 154), ('only', 159), ('a', 164), ('sort', 166), ('of', 171), ('automobile', 174), ('with', 186), ('crossed', 191), ('airplanes', 199), ('set', 209), ('over', 213), ('it', 218), ('I', 222), ('thought', 224), ('they', 232), ('claimed', 237), ('the', 245), ('thing', 249), ('could', 255), ('fly', 261), ('Those', 267), ('who', 273), ('knew', 277), ('something', 282), ('of', 292), ('aviation', 295), ('however', 305), ('were', 314), ('the', 319), ('ones', 323), ('astonished', 328), ('at', 339), ('Steve’s', 342), ('preliminary', 350), ('performance', 362), ('They', 375), ('realized', 380), ('the', 389), ('advantage', 393), ('of', 403), ('being', 406), ('able', 412), ('to', 417), ('drive', 420), ('an', 426), ('aëroplane', 429), ('on', 439), ('its', 442), ('own', 446), ('wheels', 450), ('as', 458), ('an', 461), ('automobile', 464), ('goes', 475), ('in', 481), ('case', 484), ('of', 489), ('emergencies', 492), ('and', 505), ('moreover', 509), ('the', 518), ('crossed', 523), ('planes', 531), ('a', 539), ('distinct', 541), ('innovation', 550), ('in', 561), ('construction', 564), ('gave', 577), ('them', 582), ('considerable', 587), ('food', 600), ('for', 605), ('thought', 609), ('Usually', 618), ('the', 626), ('two', 630), ('surfaces', 634), ('or', 644), ('floats', 647), ('of', 655), ('a', 658), ('biplane', 660), ('are', 668), ('exactly', 672), ('parallel', 680), ('one', 690), ('above', 694), ('the', 700), ('other', 704), ('but', 711), ('in', 715), ('Steve’s', 718), ('machine', 726), ('the', 734), ('upper', 738), ('plane', 744), ('ran', 750), ('fore', 754), ('and', 759), ('aft', 763), ('while', 768), ('the', 774), ('lower', 778), ('one', 784), ('extended', 788), ('sidewise', 797), ('At', 807), ('a', 810), ('glance', 812), ('it', 819), ('was', 822), ('possible', 826), ('to', 835), ('see', 838), ('the', 842), ('advantage', 846), ('of', 856), ('this', 859), ('arrangement', 864), ('as', 876), ('a', 879), ('duplex', 881), ('balance', 888), ('which', 897), ('with', 904), ('the', 909), ('swinging', 913), ('wing', 922), ('ends', 927), ('comprised', 933), ('the', 943), ('safety', 947), ('device', 954), ('that', 961), ('the', 966), ('inventor', 970), ('believed', 979), ('made', 988), ('his', 993), ('aëroplane', 997), ('superior', 1007), ('to', 1016), ('any', 1019), ('other', 1023)]
+-----------------------------------------------------
+Keywords: ('women aviators', 'american girl', 'accomplishment', 'competence', 'orissa kane')
+Paragraph: The American youth has been no more interested in the development of the
+science of aviation than the American girl; she is in evidence at every
+meet where aëroplanes congregate, and already recognizes her competence
+to operate successfully any aircraft that a man can manage. So the story
+of Orissa Kane’s feats has little exaggeration except in actual
+accomplishment, and it is possible her ventures may be emulated even
+before this book is out of press. There are twenty women aviators in
+Europe; in America are thousands of girls ambitious to become aviators.
+Words you probably do not know: exaggeration, competence, aircraft, actual, congregate
+CEFR level: C2
+Buttons: [('The', 0), ('American', 4), ('youth', 13), ('has', 19), ('been', 23), ('no', 28), ('more', 31), ('interested', 36), ('in', 47), ('the', 50), ('development', 54), ('of', 66), ('the', 69), ('science', 73), ('of', 81), ('aviation', 84), ('than', 93), ('the', 98), ('American', 102), ('girl', 111), ('she', 117), ('is', 121), ('in', 124), ('evidence', 127), ('at', 136), ('every', 139), ('meet', 145), ('where', 150), ('congregate', 167), ('and', 179), ('already', 183), ('recognizes', 191), ('her', 202), ('competence', 206), ('to', 217), ('operate', 220), ('successfully', 228), ('any', 241), ('aircraft', 245), ('that', 254), ('a', 259), ('man', 261), ('can', 265), ('manage', 269), ('So', 277), ('the', 280), ('story', 284), ('of', 290), ('Orissa', 293), ('Kane’s', 300), ('feats', 307), ('has', 313), ('little', 317), ('exaggeration', 324), ('except', 337), ('in', 344), ('actual', 347), ('accomplishment', 354), ('and', 370), ('it', 374), ('is', 377), ('possible', 380), ('her', 389), ('ventures', 393), ('may', 402), ('be', 406), ('emulated', 409), ('even', 418), ('before', 423), ('this', 430), ('book', 435), ('is', 440), ('out', 443), ('of', 447), ('press', 450), ('There', 457), ('are', 463), ('twenty', 467), ('women', 474), ('aviators', 480), ('in', 489), ('Europe', 492), ('in', 500), ('America', 503), ('are', 511), ('thousands', 515), ('of', 525), ('girls', 528), ('ambitious', 534), ('to', 544), ('become', 547), ('aviators', 554)]
+-----------------------------------------------------
+Keywords: ('stephen kane', 'experience', 'airships', 'pardon', 'sir')
+Paragraph: The manager shook his head.
+“We know nothing about biplanes,” he confessed.
+“Pardon me, sir,” said Stephen Kane, who was present, “I know something
+about airships, and I am sure I can repair Mr. Willard’s, if you will
+take the job.”
+The aviator turned to him gratefully.
+“Thank you,” he said; “I’ll put my machine in your hands. What
+experience have you had with biplanes of this type?”
+Words you probably do not know: of, the, repair, manager, experience
+CEFR level: A1
+Buttons: [('The', 0), ('manager', 4), ('shook', 12), ('his', 18), ('head', 22), ('We', 29), ('know', 32), ('nothing', 37), ('about', 45), ('biplanes', 51), ('he', 62), ('confessed', 65), ('Pardon', 77), ('me', 84), ('said', 94), ('Stephen', 99), ('Kane', 107), ('who', 113), ('was', 117), ('present', 121), ('I', 131), ('know', 133), ('something', 138), ('about', 148), ('airships', 154), ('and', 164), ('I', 168), ('am', 170), ('sure', 173), ('I', 178), ('can', 180), ('repair', 184), ('Mr', 191), ('Willard’s', 195), ('if', 206), ('you', 209), ('will', 213), ('take', 218), ('the', 223), ('job', 227), ('The', 233), ('aviator', 237), ('turned', 245), ('to', 252), ('him', 255), ('gratefully', 259), ('Thank', 272), ('you', 278), ('he', 284), ('said', 287), ('I’ll', 294), ('put', 299), ('my', 303), ('machine', 306), ('in', 314), ('your', 317), ('hands', 322), ('What', 329), ('experience', 334), ('have', 345), ('you', 350), ('had', 354), ('with', 358), ('biplanes', 363), ('of', 372), ('this', 375), ('type', 380)]
+-----------------------------------------------------
+Keywords: ('curtiss machine', 'repairs', 'monoplane', 'young fellow', 'antoinette')
+Paragraph: He did, performing the work excellently. Before long another biplane
+needed repairs, and Stephen was recommended by Mr. Willard. Later a
+Curtiss machine came under Steve’s hands, and then an Antoinette
+monoplane. The manager raised the young fellow’s salary, proud that he
+had a man competent to repair these new-fangled inventions which were
+creating such a stir throughout the country.
+Words you probably do not know: fellow, proud, throughout, competent, salary
+CEFR level: C1
+Buttons: [('He', 0), ('did', 3), ('performing', 8), ('the', 19), ('work', 23), ('excellently', 28), ('Before', 41), ('long', 48), ('another', 53), ('biplane', 61), ('needed', 69), ('repairs', 76), ('and', 85), ('Stephen', 89), ('was', 97), ('recommended', 101), ('by', 113), ('Mr', 116), ('Willard', 120), ('Later', 129), ('a', 135), ('Curtiss', 137), ('machine', 145), ('came', 153), ('under', 158), ('Steve’s', 164), ('hands', 172), ('and', 179), ('then', 183), ('an', 188), ('Antoinette', 191), ('monoplane', 202), ('The', 213), ('manager', 217), ('raised', 225), ('the', 232), ('young', 236), ('fellow’s', 242), ('salary', 251), ('proud', 259), ('that', 265), ('he', 270), ('had', 273), ('a', 277), ('man', 279), ('competent', 283), ('to', 293), ('repair', 296), ('these', 303), ('new', 309), ('fangled', 313), ('inventions', 321), ('which', 332), ('were', 338), ('creating', 343), ('such', 352), ('a', 357), ('stir', 359), ('throughout', 364), ('the', 375), ('country', 379)]
+-----------------------------------------------------
+Keywords: ('aëroplanes steve', 'air currents', 'only correct mechanism', 'mistakes', 'airships')
+Paragraph: “The fact is, Ris,” he said to Orissa one evening, after he had been
+poring over a book on air currents, “the airships of to-day are all
+experimental, and chock full of mistakes. No two are anywhere near
+alike, and each man thinks he has the only correct mechanism.”
+“But they fly,” answered the girl, who was keenly interested in the
+subject of aviation and had twice been down to the shop to examine the
+aëroplanes Steve was repairing.
+Words you probably do not know: air, been, alike, examine, mechanism
+CEFR level: B1
+Buttons: [('The', 1), ('fact', 5), ('is', 10), ('Ris', 14), ('he', 20), ('said', 23), ('to', 28), ('Orissa', 31), ('one', 38), ('evening', 42), ('after', 51), ('he', 57), ('had', 60), ('been', 64), ('poring', 69), ('over', 76), ('a', 81), ('book', 83), ('on', 88), ('air', 91), ('currents', 95), ('the', 106), ('airships', 110), ('of', 119), ('to', 122), ('day', 125), ('are', 129), ('all', 133), ('experimental', 137), ('and', 151), ('chock', 155), ('full', 161), ('of', 166), ('mistakes', 169), ('No', 179), ('two', 182), ('are', 186), ('anywhere', 190), ('near', 199), ('alike', 204), ('and', 211), ('each', 215), ('man', 220), ('thinks', 224), ('he', 231), ('has', 234), ('the', 238), ('only', 242), ('correct', 247), ('mechanism', 255), ('But', 268), ('they', 272), ('fly', 277), ('answered', 283), ('the', 292), ('girl', 296), ('who', 302), ('was', 306), ('keenly', 310), ('interested', 317), ('in', 328), ('the', 331), ('subject', 335), ('of', 343), ('aviation', 346), ('and', 355), ('had', 359), ('twice', 363), ('been', 369), ('down', 374), ('to', 379), ('the', 382), ('shop', 386), ('to', 391), ('examine', 394), ('the', 402), ('aëroplanes', 406), ('Steve', 417), ('was', 423), ('repairing', 427)]
+-----------------------------------------------------
+Keywords: ('many famous aviators', 'los angeles', 'opportunity', 'dominguez field', 'great aviation meet')
+Paragraph: Orissa didn’t; but Steve did, about a month later. A great aviation meet
+had been arranged at Dominguez Field, near Los Angeles and only a few
+miles from their own home. The event, which was destined to be an epoch
+in the history of aviation, brought many famous aviators to the city
+with their machines, among them a Frenchman named Paulhan, with whom
+Stephen soon became acquainted. An examination of Paulhan’s machine, a
+Farman of the latest type, which had already performed marvels, served
+to convince the boy that his own ideas were not only practical but
+destined soon to be discovered and applied by someone else if he himself
+failed to take advantage of the time and opportunity to utilize them.
+With that argument to calm any misgivings that he might perhaps fail,
+coupled with an eagerness to build his invention that drove him to
+forsake caution, Steve went to Orissa one day and said:
+Words you probably do not know: calm, examination, practical, coupled, utilize
+CEFR level: C1
+Buttons: [('Orissa', 0), ('didn’t', 7), ('but', 15), ('Steve', 19), ('did', 25), ('about', 30), ('a', 36), ('month', 38), ('later', 44), ('A', 51), ('great', 53), ('aviation', 59), ('meet', 68), ('had', 73), ('been', 77), ('arranged', 82), ('at', 91), ('Dominguez', 94), ('Field', 104), ('near', 111), ('Los', 116), ('Angeles', 120), ('and', 128), ('only', 132), ('a', 137), ('few', 139), ('miles', 143), ('from', 149), ('their', 154), ('own', 160), ('home', 164), ('The', 170), ('event', 174), ('which', 181), ('was', 187), ('destined', 191), ('to', 200), ('be', 203), ('an', 206), ('epoch', 209), ('in', 215), ('the', 218), ('history', 222), ('of', 230), ('aviation', 233), ('brought', 243), ('many', 251), ('famous', 256), ('aviators', 263), ('to', 272), ('the', 275), ('city', 279), ('with', 284), ('their', 289), ('machines', 295), ('among', 305), ('them', 311), ('a', 316), ('Frenchman', 318), ('named', 328), ('Paulhan', 334), ('with', 343), ('whom', 348), ('Stephen', 353), ('soon', 361), ('became', 366), ('acquainted', 373), ('An', 385), ('examination', 388), ('of', 400), ('Paulhan’s', 403), ('machine', 413), ('a', 422), ('Farman', 424), ('of', 431), ('the', 434), ('latest', 438), ('type', 445), ('which', 451), ('had', 457), ('already', 461), ('performed', 469), ('marvels', 479), ('served', 488), ('to', 495), ('convince', 498), ('the', 507), ('boy', 511), ('that', 515), ('his', 520), ('own', 524), ('ideas', 528), ('were', 534), ('not', 539), ('only', 543), ('practical', 548), ('but', 558), ('destined', 562), ('soon', 571), ('to', 576), ('be', 579), ('discovered', 582), ('and', 593), ('applied', 597), ('by', 605), ('someone', 608), ('else', 616), ('if', 621), ('he', 624), ('himself', 627), ('failed', 635), ('to', 642), ('take', 645), ('advantage', 650), ('of', 660), ('the', 663), ('time', 667), ('and', 672), ('opportunity', 676), ('to', 688), ('utilize', 691), ('them', 699), ('With', 705), ('that', 710), ('argument', 715), ('to', 724), ('calm', 727), ('any', 732), ('misgivings', 736), ('that', 747), ('he', 752), ('might', 755), ('perhaps', 761), ('fail', 769), ('coupled', 775), ('with', 783), ('an', 788), ('eagerness', 791), ('to', 801), ('build', 804), ('his', 810), ('invention', 814), ('that', 824), ('drove', 829), ('him', 835), ('to', 839), ('forsake', 842), ('caution', 850), ('Steve', 859), ('went', 865), ('to', 870), ('Orissa', 873), ('one', 880), ('day', 884), ('and', 888), ('said', 892)]
+-----------------------------------------------------
+Keywords: ('monoplane', 'aëroplane', 'ideas', 'such machines', 'steve')
+Paragraph: “Let’s take a look at it, Steve!” she said, hastening her steps.
+In the big, canvas covered shed reposed the aëroplane, its spreading
+white sails filling the place almost to the very edges. It was neither a
+monoplane nor a biplane, according to accepted ideas of such machines,
+but was what Steve called “a story-and-a-half flyer.”
+Words you probably do not know: such, filling, nor, shed, neither
+CEFR level: A1
+Buttons: [('Let’s', 1), ('take', 7), ('a', 12), ('look', 14), ('at', 19), ('it', 22), ('Steve', 26), ('she', 34), ('said', 38), ('hastening', 44), ('her', 54), ('steps', 58), ('In', 65), ('the', 68), ('big', 72), ('canvas', 77), ('covered', 84), ('shed', 92), ('reposed', 97), ('the', 105), ('aëroplane', 109), ('its', 120), ('spreading', 124), ('white', 134), ('sails', 140), ('filling', 146), ('the', 154), ('place', 158), ('almost', 164), ('to', 171), ('the', 174), ('very', 178), ('edges', 183), ('It', 190), ('was', 193), ('neither', 197), ('a', 205), ('monoplane', 207), ('nor', 217), ('a', 221), ('biplane', 223), ('according', 232), ('to', 242), ('accepted', 245), ('ideas', 254), ('of', 260), ('such', 263), ('machines', 268), ('but', 278), ('was', 282), ('what', 286), ('Steve', 291), ('called', 297), ('a', 305), ('story', 307), ('and', 313), ('a', 317), ('half', 319), ('flyer', 324)]
+-----------------------------------------------------
+Keywords: ('psychological moment', 'complete airship', 'mechanic', 'miss kane', 'famous aëroplanes')
+Paragraph: “Oh, it is not a model,” she gravely replied. “Stephen is an expert
+mechanic and has worked on many of the most famous aëroplanes in the
+country. He has recently built a complete airship of his own, and this
+morning I watched him make a very successful flight in it.”
+“Indeed?” he exclaimed, the eager look returning. “There is money in a
+good airship, Miss Kane. This is the psychological moment to forge ahead
+in aviation, which will soon become the world’s popular mode of transit.
+It is easy to build an airship; yes. Perhaps I could build one myself.
+But where many will try, many will fail.”
+Words you probably do not know: country, eager, mechanic, psychological, transit
+CEFR level: A2
+Buttons: [('Oh', 1), ('it', 5), ('is', 8), ('not', 11), ('a', 15), ('model', 17), ('she', 25), ('gravely', 29), ('replied', 37), ('Stephen', 47), ('is', 55), ('an', 58), ('expert', 61), ('mechanic', 68), ('and', 77), ('has', 81), ('worked', 85), ('on', 92), ('many', 95), ('of', 100), ('the', 103), ('most', 107), ('famous', 112), ('aëroplanes', 119), ('in', 130), ('the', 133), ('country', 137), ('He', 146), ('has', 149), ('recently', 153), ('built', 162), ('a', 168), ('complete', 170), ('airship', 179), ('of', 187), ('his', 190), ('own', 194), ('and', 199), ('this', 203), ('morning', 208), ('I', 216), ('watched', 218), ('him', 226), ('make', 230), ('a', 235), ('very', 237), ('successful', 242), ('flight', 253), ('in', 260), ('it', 263), ('Indeed', 269), ('he', 278), ('exclaimed', 281), ('the', 292), ('eager', 296), ('look', 302), ('returning', 307), ('There', 319), ('is', 325), ('money', 328), ('in', 334), ('a', 337), ('good', 339), ('airship', 344), ('Miss', 353), ('Kane', 358), ('This', 364), ('is', 369), ('the', 372), ('psychological', 376), ('moment', 390), ('to', 397), ('forge', 400), ('ahead', 406), ('in', 412), ('aviation', 415), ('which', 425), ('will', 431), ('soon', 436), ('become', 441), ('the', 448), ('world’s', 452), ('popular', 460), ('mode', 468), ('of', 473), ('transit', 476), ('It', 485), ('is', 488), ('easy', 491), ('to', 496), ('build', 499), ('an', 505), ('airship', 508), ('yes', 517), ('Perhaps', 522), ('I', 530), ('could', 532), ('build', 538), ('one', 544), ('myself', 548), ('But', 556), ('where', 560), ('many', 566), ('will', 571), ('try', 576), ('many', 581), ('will', 586), ('fail', 591)]
+-----------------------------------------------------
+Keywords: ('thing burthon', 'sir', 'crank', 'steve', 'flying machine')
+Paragraph: He glanced around him, then calmly took a cigarette from his pocket and
+offered one to Steve.
+“I can’t allow smoking here, sir; there’s too much gasoline about,” said
+the boy, almost rudely.
+“True. I forgot.” He put the case in his pocket. “You’re building some
+sort of a—er—er—flying machine, I see. That interests me. I’m a crank on
+aviation. Is this the thing Burthon wants a half interest in?”
+Words you probably do not know: allow, interest, rudely, sort, calmly
+CEFR level: A1
+Buttons: [('He', 0), ('glanced', 3), ('around', 11), ('him', 18), ('then', 23), ('calmly', 28), ('took', 35), ('a', 40), ('cigarette', 42), ('from', 52), ('his', 57), ('pocket', 61), ('and', 68), ('offered', 72), ('one', 80), ('to', 84), ('Steve', 87), ('I', 95), ('can’t', 97), ('allow', 103), ('smoking', 109), ('here', 117), ('sir', 123), ('there’s', 128), ('too', 136), ('much', 140), ('gasoline', 145), ('about', 154), ('said', 162), ('the', 167), ('boy', 171), ('almost', 176), ('rudely', 183), ('True', 192), ('I', 198), ('forgot', 200), ('He', 209), ('put', 212), ('the', 216), ('case', 220), ('in', 225), ('his', 228), ('pocket', 232), ('You’re', 241), ('building', 248), ('some', 257), ('sort', 262), ('of', 267), ('a', 270), ('er', 272), ('er', 275), ('flying', 278), ('machine', 285), ('I', 294), ('see', 296), ('That', 301), ('interests', 306), ('me', 316), ('I’m', 320), ('a', 324), ('crank', 326), ('on', 332), ('aviation', 335), ('Is', 345), ('this', 348), ('the', 353), ('thing', 357), ('Burthon', 363), ('wants', 371), ('a', 377), ('half', 379), ('interest', 384), ('in', 393)]
+-----------------------------------------------------
+Keywords: ('worries', 'conditions', 'future career', 'permission', 'burthon')
+Paragraph: “Eh? None at all. The thing interests me. If you make a lot of money,
+I’ll let you pay me back some day. That’s fair. If you fail, you’ll have
+worries enough without having to repay me. But I attach two conditions
+to my offer. One is that you have nothing to do with Burthon. The other
+is that I have permission to come here and watch your work; to advise
+with you at times; to help you map out your future career and to attend
+all the flying exhibitions in which you take part. Agree to that, and
+I’ll back you through thick and thin, because I’m interested in aviation
+and—because your sister was good to me.”
+Words you probably do not know: repay, attach, attend, career, times
+CEFR level: A2
+Buttons: [('Eh', 1), ('None', 5), ('at', 10), ('all', 13), ('The', 18), ('thing', 22), ('interests', 28), ('me', 38), ('If', 42), ('you', 45), ('make', 49), ('a', 54), ('lot', 56), ('of', 60), ('money', 63), ('I’ll', 70), ('let', 75), ('you', 79), ('pay', 83), ('me', 87), ('back', 90), ('some', 95), ('day', 100), ('That’s', 105), ('fair', 112), ('If', 118), ('you', 121), ('fail', 125), ('you’ll', 131), ('have', 138), ('worries', 143), ('enough', 151), ('without', 158), ('having', 166), ('to', 173), ('repay', 176), ('me', 182), ('But', 186), ('I', 190), ('attach', 192), ('two', 199), ('conditions', 203), ('to', 214), ('my', 217), ('offer', 220), ('One', 227), ('is', 231), ('that', 234), ('you', 239), ('have', 243), ('nothing', 248), ('to', 256), ('do', 259), ('with', 262), ('Burthon', 267), ('The', 276), ('other', 280), ('is', 286), ('that', 289), ('I', 294), ('have', 296), ('permission', 301), ('to', 312), ('come', 315), ('here', 320), ('and', 325), ('watch', 329), ('your', 335), ('work', 340), ('to', 346), ('advise', 349), ('with', 356), ('you', 361), ('at', 365), ('times', 368), ('to', 375), ('help', 378), ('you', 383), ('map', 387), ('out', 391), ('your', 395), ('future', 400), ('career', 407), ('and', 414), ('to', 418), ('attend', 421), ('all', 428), ('the', 432), ('flying', 436), ('exhibitions', 443), ('in', 455), ('which', 458), ('you', 464), ('take', 468), ('part', 473), ('Agree', 479), ('to', 485), ('that', 488), ('and', 494), ('I’ll', 498), ('back', 503), ('you', 508), ('through', 512), ('thick', 520), ('and', 526), ('thin', 530), ('because', 536), ('I’m', 544), ('interested', 548), ('in', 559), ('aviation', 562), ('and', 571), ('because', 575), ('your', 583), ('sister', 588), ('was', 595), ('good', 599), ('to', 604), ('me', 607)]
+-----------------------------------------------------
+Keywords: ('irresponsible idiot', 'patent office', 'full descriptions', 'trouble', 'stephen kane')
+Paragraph: “They’re what?”
+“Patented, sir; registered in the patent office at Washington.”
+“Oho!”
+Steve looked at him, surprised.
+“Well, sir?”
+“You’re an irresponsible idiot, Stephen Kane.”
+“Because I patented my inventions?”
+“Yes, sir; for placing full descriptions and drawings of them before the
+public until you’ve startled the aviation world and are ready to
+advertise what you’ve done.”
+Steve stared, a perception of Cumberford’s meaning gradually coming to
+him.
+“Why, as for that,” he said a little uneasily, “no one ever takes the
+trouble to read up new patents, there are so many of them. And, after
+all, it’s a protection.”
+Words you probably do not know: protection, uneasily, irresponsible, idiot, perception
+CEFR level: A2
+Buttons: [('They’re', 1), ('what', 9), ('Patented', 17), ('registered', 32), ('in', 43), ('the', 46), ('patent', 50), ('office', 57), ('at', 64), ('Washington', 67), ('Oho', 81), ('Steve', 87), ('looked', 93), ('at', 100), ('him', 103), ('surprised', 108), ('Well', 120), ('You’re', 133), ('an', 140), ('irresponsible', 143), ('idiot', 157), ('Stephen', 164), ('Kane', 172), ('Because', 180), ('I', 188), ('patented', 190), ('my', 199), ('inventions', 202), ('Yes', 216), ('for', 226), ('placing', 230), ('full', 238), ('descriptions', 243), ('and', 256), ('drawings', 260), ('of', 269), ('them', 272), ('before', 277), ('the', 284), ('public', 288), ('until', 295), ('you’ve', 301), ('startled', 308), ('the', 317), ('aviation', 321), ('world', 330), ('and', 336), ('are', 340), ('ready', 344), ('to', 350), ('advertise', 353), ('what', 363), ('you’ve', 368), ('done', 375), ('Steve', 382), ('stared', 388), ('a', 396), ('perception', 398), ('of', 409), ('Cumberford’s', 412), ('meaning', 425), ('gradually', 433), ('coming', 443), ('to', 450), ('him', 453), ('Why', 459), ('as', 464), ('for', 467), ('that', 471), ('he', 478), ('said', 481), ('a', 486), ('little', 488), ('uneasily', 495), ('no', 506), ('one', 509), ('ever', 513), ('takes', 518), ('the', 524), ('trouble', 528), ('to', 536), ('read', 539), ('up', 544), ('new', 547), ('patents', 551), ('there', 560), ('are', 566), ('so', 570), ('many', 573), ('of', 578), ('them', 581), ('And', 587), ('after', 592), ('all', 598), ('it’s', 603), ('a', 608), ('protection', 610)]
+-----------------------------------------------------
+Keywords: ('several other modern aëroplanes', 'dominguez field', 'idea', 'construction', 'flights')
+Paragraph: “You seem to understand your brother’s invention perfectly.”
+“Oh, I do, in its construction and use. You see, I’ve been with Steve
+from the beginning; also I’ve examined several other modern aëroplanes
+and watched the flights at Dominguez Field. Naturally I’m enthusiastic
+over aviation, but I haven’t yet considered the idea of personally
+attempting a flight. To manage a machine in the air requires a quick
+eye, a clear brain and a lot of confidence and courage.”
+Words you probably do not know: enthusiastic, courage, personally, confidence, construction
+CEFR level: A2
+Buttons: [('You', 1), ('seem', 5), ('to', 10), ('understand', 13), ('your', 24), ('brother’s', 29), ('invention', 39), ('perfectly', 49), ('Oh', 62), ('I', 66), ('do', 68), ('in', 72), ('its', 75), ('construction', 79), ('and', 92), ('use', 96), ('You', 101), ('see', 105), ('I’ve', 110), ('been', 115), ('with', 120), ('Steve', 125), ('from', 131), ('the', 136), ('beginning', 140), ('also', 151), ('I’ve', 156), ('examined', 161), ('several', 170), ('other', 178), ('modern', 184), ('aëroplanes', 191), ('and', 202), ('watched', 206), ('the', 214), ('flights', 218), ('at', 226), ('Dominguez', 229), ('Field', 239), ('Naturally', 246), ('I’m', 256), ('enthusiastic', 260), ('over', 273), ('aviation', 278), ('but', 288), ('I', 292), ('haven’t', 294), ('yet', 302), ('considered', 306), ('the', 317), ('idea', 321), ('of', 326), ('personally', 329), ('attempting', 340), ('a', 351), ('flight', 353), ('To', 361), ('manage', 364), ('a', 371), ('machine', 373), ('in', 381), ('the', 384), ('air', 388), ('requires', 392), ('a', 401), ('quick', 403), ('eye', 409), ('a', 414), ('clear', 416), ('brain', 422), ('and', 428), ('a', 432), ('lot', 434), ('of', 438), ('confidence', 441), ('and', 452), ('courage', 456)]
+-----------------------------------------------------
+Keywords: ('aërial spiral staircase', 'grayish speck', 'propellers', 'circles', 'grand stand')
+Paragraph: From the far end of the field Steve swung around and started back,
+straight for the grand stand. He had nearly reached it when he threw in
+the clutch that started the propellers and at the same time slightly
+elevated the front rudder. Up, like a bird taking wing, rose the
+aircraft, soaring above the grand stand and then describing a series of
+circles over the field. Gradually it ascended, as if the aviator was
+ascending an aërial spiral staircase, until he had mounted so far among
+the clouds that only a grayish speck was discernible.
+Words you probably do not know: slightly, series, aircraft, grand, clutch
+CEFR level: B2
+Buttons: [('From', 0), ('the', 5), ('far', 9), ('end', 13), ('of', 17), ('the', 20), ('field', 24), ('Steve', 30), ('swung', 36), ('around', 42), ('and', 49), ('started', 53), ('back', 61), ('straight', 67), ('for', 76), ('the', 80), ('grand', 84), ('stand', 90), ('He', 97), ('had', 100), ('nearly', 104), ('reached', 111), ('it', 119), ('when', 122), ('he', 127), ('threw', 130), ('in', 136), ('the', 139), ('clutch', 143), ('that', 150), ('started', 155), ('the', 163), ('propellers', 167), ('and', 178), ('at', 182), ('the', 185), ('same', 189), ('time', 194), ('slightly', 199), ('elevated', 208), ('the', 217), ('front', 221), ('rudder', 227), ('Up', 235), ('like', 239), ('a', 244), ('bird', 246), ('taking', 251), ('wing', 258), ('rose', 264), ('the', 269), ('aircraft', 273), ('soaring', 283), ('above', 291), ('the', 297), ('grand', 301), ('stand', 307), ('and', 313), ('then', 317), ('describing', 322), ('a', 333), ('series', 335), ('of', 342), ('circles', 345), ('over', 353), ('the', 358), ('field', 362), ('Gradually', 369), ('it', 379), ('ascended', 382), ('as', 392), ('if', 395), ('the', 398), ('aviator', 402), ('was', 410), ('ascending', 414), ('an', 424), ('aërial', 427), ('spiral', 434), ('staircase', 441), ('until', 452), ('he', 458), ('had', 461), ('mounted', 465), ('so', 473), ('far', 476), ('among', 480), ('the', 486), ('clouds', 490), ('that', 497), ('only', 502), ('a', 507), ('grayish', 509), ('speck', 517), ('was', 523), ('discernible', 527)]
+-----------------------------------------------------
+Keywords: ('dollars', 'infringement', 'stephen kane', 'london', 'foreign patents')
+Paragraph: “You must. To whine of ruin is absurd. I know that my father paid you a
+quarter of a million for your mine. You also obtained, without doubt, a
+good sum for your business. So far you cannot have invested more than a
+few thousand dollars in your attempt to steal Stephen Kane’s invention.
+My advice, sir, is to get away from here as soon as you can. Go to
+London or Paris, where there is more interest in aviation than here, and
+make a business of flying, if you will. But the Kane device is fully
+protected by foreign patents, and any infringement will be promptly
+prosecuted.”
+Words you probably do not know: device, paid, absurd, infringement, promptly
+CEFR level: A2
+Buttons: [('You', 1), ('must', 5), ('To', 11), ('whine', 14), ('of', 20), ('ruin', 23), ('is', 28), ('absurd', 31), ('I', 39), ('know', 41), ('that', 46), ('my', 51), ('father', 54), ('paid', 61), ('you', 66), ('a', 70), ('quarter', 72), ('of', 80), ('a', 83), ('million', 85), ('for', 93), ('your', 97), ('mine', 102), ('You', 108), ('also', 112), ('obtained', 117), ('without', 127), ('doubt', 135), ('a', 142), ('good', 144), ('sum', 149), ('for', 153), ('your', 157), ('business', 162), ('So', 172), ('far', 175), ('you', 179), ('cannot', 183), ('have', 190), ('invested', 195), ('more', 204), ('than', 209), ('a', 214), ('few', 216), ('thousand', 220), ('dollars', 229), ('in', 237), ('your', 240), ('attempt', 245), ('to', 253), ('steal', 256), ('Stephen', 262), ('Kane’s', 270), ('invention', 277), ('My', 288), ('advice', 291), ('is', 304), ('to', 307), ('get', 310), ('away', 314), ('from', 319), ('here', 324), ('as', 329), ('soon', 332), ('as', 337), ('you', 340), ('can', 344), ('Go', 349), ('to', 352), ('London', 355), ('or', 362), ('Paris', 365), ('where', 372), ('there', 378), ('is', 384), ('more', 387), ('interest', 392), ('in', 401), ('aviation', 404), ('than', 413), ('here', 418), ('and', 424), ('make', 428), ('a', 433), ('business', 435), ('of', 444), ('flying', 447), ('if', 455), ('you', 458), ('will', 462), ('But', 468), ('the', 472), ('Kane', 476), ('device', 481), ('is', 488), ('fully', 491), ('protected', 497), ('by', 507), ('foreign', 510), ('patents', 518), ('and', 527), ('any', 531), ('infringement', 535), ('will', 548), ('be', 553), ('promptly', 556), ('prosecuted', 565)]
+-----------------------------------------------------
+Keywords: ('tom dunbar', 'pneumonia', 'southern california', 'great aviation meet', 'aëroplanes')
+Paragraph: So, when the great aviation meet approached and every man, woman and
+child in Southern California was eager for details concerning it and
+demanded pages of description of the various participating aëroplanes
+and aviators, in advance of their exhibition, and when Tom Dunbar, the
+_Tribune’s_ expert on aviation, was suddenly stricken with pneumonia,
+“Chesty” Todd was assigned to this important department.
+Words you probably do not know: advance, various, department, pneumonia, concerning
+CEFR level: A1
+Buttons: [('So', 0), ('when', 4), ('the', 9), ('great', 13), ('aviation', 19), ('meet', 28), ('approached', 33), ('and', 44), ('every', 48), ('man', 54), ('woman', 59), ('and', 65), ('child', 69), ('in', 75), ('Southern', 78), ('California', 87), ('was', 98), ('eager', 102), ('for', 108), ('details', 112), ('concerning', 120), ('it', 131), ('and', 134), ('demanded', 138), ('pages', 147), ('of', 153), ('description', 156), ('of', 168), ('the', 171), ('various', 175), ('participating', 183), ('aëroplanes', 197), ('and', 208), ('aviators', 212), ('in', 222), ('advance', 225), ('of', 233), ('their', 236), ('exhibition', 242), ('and', 254), ('when', 258), ('Tom', 263), ('Dunbar', 267), ('the', 275), ('_Tribune’s_', 279), ('expert', 291), ('on', 298), ('aviation', 301), ('was', 311), ('suddenly', 315), ('stricken', 324), ('with', 333), ('pneumonia', 338), ('Chesty', 350), ('Todd', 358), ('was', 363), ('assigned', 367), ('to', 376), ('this', 379), ('important', 384), ('department', 394)]
+-----------------------------------------------------
+Keywords: ('innumerable questions', 'skillful handling', 'exhibitions', 'appetite', 'aëroplane')
+Paragraph: Therefore, it is little wonder public interest was excited and every
+aviator determined to do his best. Many thronged the hangars, asking
+innumerable questions of the good-natured attendants, who recognized the
+popular ignorance of modern flying devices and were tolerant and
+communicative to a degree.
+The morning events were of minor importance, although several clever
+exhibitions of flying were given. But at two o’clock the competition for
+skillful handling of an aëroplane in midair was scheduled, and at that
+time the appetite of each spectator was whetted for the great spectacle.
+The day seemed ideal for aviation; the sky was flecked with fleecy
+clouds and scarcely a breath of air could be felt at the earth’s
+surface.
+Words you probably do not know: spectacle, tolerant, ignorance, scheduled, determined
+CEFR level: C2
+Buttons: [('Therefore', 0), ('it', 11), ('is', 14), ('little', 17), ('wonder', 24), ('public', 31), ('interest', 38), ('was', 47), ('excited', 51), ('and', 59), ('every', 63), ('aviator', 69), ('determined', 77), ('to', 88), ('do', 91), ('his', 94), ('best', 98), ('Many', 104), ('thronged', 109), ('the', 118), ('hangars', 122), ('asking', 131), ('innumerable', 138), ('questions', 150), ('of', 160), ('the', 163), ('good', 167), ('natured', 172), ('attendants', 180), ('who', 192), ('recognized', 196), ('the', 207), ('popular', 211), ('ignorance', 219), ('of', 229), ('modern', 232), ('flying', 239), ('devices', 246), ('and', 254), ('were', 258), ('tolerant', 263), ('and', 272), ('communicative', 276), ('to', 290), ('a', 293), ('degree', 295), ('The', 303), ('morning', 307), ('events', 315), ('were', 322), ('of', 327), ('minor', 330), ('importance', 336), ('although', 348), ('several', 357), ('clever', 365), ('exhibitions', 372), ('of', 384), ('flying', 387), ('were', 394), ('given', 399), ('But', 406), ('at', 410), ('two', 413), ('o’clock', 417), ('the', 425), ('competition', 429), ('for', 441), ('skillful', 445), ('handling', 454), ('of', 463), ('an', 466), ('aëroplane', 469), ('in', 479), ('was', 489), ('scheduled', 493), ('and', 504), ('at', 508), ('that', 511), ('time', 516), ('the', 521), ('appetite', 525), ('of', 534), ('each', 537), ('spectator', 542), ('was', 552), ('whetted', 556), ('for', 564), ('the', 568), ('great', 572), ('spectacle', 578), ('The', 589), ('day', 593), ('seemed', 597), ('ideal', 604), ('for', 610), ('aviation', 614), ('the', 624), ('sky', 628), ('was', 632), ('flecked', 636), ('with', 644), ('fleecy', 649), ('clouds', 656), ('and', 663), ('scarcely', 667), ('a', 676), ('breath', 678), ('of', 685), ('air', 688), ('could', 692), ('be', 698), ('felt', 701), ('at', 706), ('the', 709), ('earth’s', 713), ('surface', 721)]
+-----------------------------------------------------
+Keywords: ('greatest living aëronauts', 'unaccountable reason burthon', 'explanation', 'first appearance', 'great aviation meet')
+Paragraph: Now came the first appearance of the Kane Aircraft. It had not been
+brought from the hangar during the forenoon and, in watching such
+celebrated aëroplanes as the Bleriot, Farman, Antoinette, Curtiss and
+Wright, manned by the greatest living aëronauts, those assembled had
+almost forgotten that a local inventor was to enter the lists with them.
+The secretary of the Aëro Club and others interested had expected Mr.
+Burthon to protest against allowing the Kane device to be operated, on
+the ground that Kane was entered to operate it and was unable to do so;
+but for some unaccountable reason Burthon remained silent, not even
+appearing at the field, and Mr. Cumberford’s explanation that the “Kane”
+in this instance meant the young man’s sister, satisfied the officials
+perfectly. Naturally they were surprised and even startled at the idea
+of a girl taking part in the great aviation meet, but hailed the
+innovation with keenest interest.
+Words you probably do not know: instance, device, inventor, innovation, expected
+CEFR level: C2
+Buttons: [('Now', 0), ('came', 4), ('the', 9), ('first', 13), ('appearance', 19), ('of', 30), ('the', 33), ('Kane', 37), ('Aircraft', 42), ('It', 52), ('had', 55), ('not', 59), ('been', 63), ('brought', 68), ('from', 76), ('the', 81), ('hangar', 85), ('during', 92), ('the', 99), ('forenoon', 103), ('and', 112), ('in', 117), ('watching', 120), ('such', 129), ('celebrated', 134), ('aëroplanes', 145), ('as', 156), ('the', 159), ('Bleriot', 163), ('Farman', 172), ('Antoinette', 180), ('Curtiss', 192), ('and', 200), ('Wright', 204), ('manned', 212), ('by', 219), ('the', 222), ('greatest', 226), ('living', 235), ('aëronauts', 242), ('those', 253), ('assembled', 259), ('had', 269), ('almost', 273), ('forgotten', 280), ('that', 290), ('a', 295), ('local', 297), ('inventor', 303), ('was', 312), ('to', 316), ('enter', 319), ('the', 325), ('lists', 329), ('with', 335), ('them', 340), ('The', 346), ('of', 360), ('the', 363), ('Aëro', 367), ('Club', 372), ('and', 377), ('others', 381), ('interested', 388), ('had', 399), ('expected', 403), ('Mr', 412), ('Burthon', 416), ('to', 424), ('protest', 427), ('against', 435), ('allowing', 443), ('the', 452), ('Kane', 456), ('device', 461), ('to', 468), ('be', 471), ('operated', 474), ('on', 484), ('the', 487), ('ground', 491), ('that', 498), ('Kane', 503), ('was', 508), ('entered', 512), ('to', 520), ('operate', 523), ('it', 531), ('and', 534), ('was', 538), ('unable', 542), ('to', 549), ('do', 552), ('so', 555), ('but', 559), ('for', 563), ('some', 567), ('unaccountable', 572), ('reason', 586), ('Burthon', 593), ('remained', 601), ('silent', 610), ('not', 618), ('even', 622), ('appearing', 627), ('at', 637), ('the', 640), ('field', 644), ('and', 651), ('Mr', 655), ('Cumberford’s', 659), ('explanation', 672), ('that', 684), ('the', 689), ('Kane', 694), ('in', 700), ('this', 703), ('instance', 708), ('meant', 717), ('the', 723), ('young', 727), ('man’s', 733), ('sister', 739), ('satisfied', 747), ('the', 757), ('officials', 761), ('perfectly', 771), ('Naturally', 782), ('they', 792), ('were', 797), ('surprised', 802), ('and', 812), ('even', 816), ('startled', 821), ('at', 830), ('the', 833), ('idea', 837), ('of', 842), ('a', 845), ('girl', 847), ('taking', 852), ('part', 859), ('in', 864), ('the', 867), ('great', 871), ('aviation', 877), ('meet', 886), ('but', 892), ('hailed', 896), ('the', 903), ('innovation', 907), ('with', 918), ('keenest', 923), ('interest', 931)]
+-----------------------------------------------------
+Keywords: ('mighty thoroughfare', 'rapturous exhilaration', 'high altitudes', 'peculiarities', 'masterful desire')
+Paragraph: The air is a mighty thoroughfare, free and untrammeled. The little group
+of aëroplanes operating over Dominguez—darting here and there, up and
+down—had little chance of colliding, for there was space enough and to
+spare. Orissa knew all about air currents and their peculiarities and
+she also knew that her greatest safety lay in high altitudes. With a
+feeling of rapturous exhilaration she began to realize her control of
+the craft and her dominance of the air. A masterful desire crept over
+her to accomplish great deeds in aviation.
+Words you probably do not know: safety, mighty, spare, exhilaration, rapturous
+CEFR level: B1
+Buttons: [('The', 0), ('air', 4), ('is', 8), ('a', 11), ('mighty', 13), ('thoroughfare', 20), ('free', 34), ('and', 39), ('untrammeled', 43), ('The', 56), ('little', 60), ('group', 67), ('of', 73), ('aëroplanes', 76), ('operating', 87), ('over', 97), ('Dominguez', 102), ('darting', 112), ('here', 120), ('and', 125), ('there', 129), ('up', 136), ('and', 139), ('down', 143), ('had', 148), ('little', 152), ('chance', 159), ('of', 166), ('colliding', 169), ('for', 180), ('there', 184), ('was', 190), ('space', 194), ('enough', 200), ('and', 207), ('to', 211), ('spare', 214), ('Orissa', 221), ('knew', 228), ('all', 233), ('about', 237), ('air', 243), ('currents', 247), ('and', 256), ('their', 260), ('peculiarities', 266), ('and', 280), ('she', 284), ('also', 288), ('knew', 293), ('that', 298), ('her', 303), ('greatest', 307), ('safety', 316), ('lay', 323), ('in', 327), ('high', 330), ('altitudes', 335), ('With', 346), ('a', 351), ('feeling', 353), ('of', 361), ('rapturous', 364), ('exhilaration', 374), ('she', 387), ('began', 391), ('to', 397), ('realize', 400), ('her', 408), ('control', 412), ('of', 420), ('the', 423), ('craft', 427), ('and', 433), ('her', 437), ('dominance', 441), ('of', 451), ('the', 454), ('air', 458), ('A', 463), ('masterful', 465), ('desire', 475), ('crept', 482), ('over', 488), ('her', 493), ('to', 497), ('accomplish', 500), ('great', 511), ('deeds', 517), ('in', 523), ('aviation', 526)]
+-----------------------------------------------------
+Keywords: ('brave little speck', 'gigantic sky monsters', 'awful audacity', 'mechanical birds', 'busy propeller')
+Paragraph: Those who were watching from below—judges, friends and spectators—saw
+her steadily mounting, higher and higher, until she seemed to fade out
+of sight like the figure in a moving picture, with nothing but a little
+iron-and-wood skeleton and the chugging of a tiny engine to ward off
+death. Then she came into sight again, a little smudge of grayish white
+against the shifting clouds. To see her up there, a mere speck dodging
+among the storm clouds, reminded the observers, as nothing in aviation
+has ever done before, of the awful audacity of man in building these
+mechanical birds. As they watched they found themselves hoping—as a
+child might—that in some way the brave little speck would manage to
+escape those gigantic sky monsters. Then one seized the aircraft, and
+just as the sun caught and flung back to earth a flash from one of the
+busy propeller-blades a huge cloud swallowed up machine and aviator and
+they vanished like mist.
+Words you probably do not know: engine, mist, aircraft, moving, found
+CEFR level: B1
+Buttons: [('Those', 0), ('who', 6), ('were', 10), ('watching', 15), ('from', 24), ('below', 29), ('judges', 35), ('friends', 43), ('and', 51), ('spectators', 55), ('saw', 66), ('her', 70), ('steadily', 74), ('mounting', 83), ('higher', 93), ('and', 100), ('higher', 104), ('until', 112), ('she', 118), ('seemed', 122), ('to', 129), ('fade', 132), ('out', 137), ('of', 141), ('sight', 144), ('like', 150), ('the', 155), ('figure', 159), ('in', 166), ('a', 169), ('moving', 171), ('picture', 178), ('with', 187), ('nothing', 192), ('but', 200), ('a', 204), ('little', 206), ('iron', 213), ('and', 218), ('wood', 222), ('skeleton', 227), ('and', 236), ('the', 240), ('chugging', 244), ('of', 253), ('a', 256), ('tiny', 258), ('engine', 263), ('to', 270), ('ward', 273), ('off', 278), ('death', 282), ('Then', 289), ('she', 294), ('came', 298), ('into', 303), ('sight', 308), ('again', 314), ('a', 321), ('little', 323), ('smudge', 330), ('of', 337), ('grayish', 340), ('against', 354), ('the', 362), ('shifting', 366), ('clouds', 375), ('To', 383), ('see', 386), ('her', 390), ('up', 394), ('there', 397), ('a', 404), ('mere', 406), ('speck', 411), ('dodging', 417), ('among', 425), ('the', 431), ('storm', 435), ('clouds', 441), ('reminded', 449), ('the', 458), ('observers', 462), ('as', 473), ('nothing', 476), ('in', 484), ('aviation', 487), ('has', 496), ('ever', 500), ('done', 505), ('before', 510), ('of', 518), ('the', 521), ('awful', 525), ('audacity', 531), ('of', 540), ('man', 543), ('in', 547), ('building', 550), ('these', 559), ('mechanical', 565), ('birds', 576), ('As', 583), ('they', 586), ('watched', 591), ('they', 599), ('found', 604), ('themselves', 610), ('hoping', 621), ('as', 628), ('a', 631), ('child', 633), ('might', 639), ('that', 645), ('in', 650), ('some', 653), ('way', 658), ('the', 662), ('brave', 666), ('little', 672), ('speck', 679), ('would', 685), ('manage', 691), ('to', 698), ('escape', 701), ('those', 708), ('gigantic', 714), ('sky', 723), ('monsters', 727), ('Then', 737), ('one', 742), ('seized', 746), ('the', 753), ('aircraft', 757), ('and', 767), ('just', 771), ('as', 776), ('the', 779), ('sun', 783), ('caught', 787), ('and', 794), ('flung', 798), ('back', 804), ('to', 809), ('earth', 812), ('a', 818), ('flash', 820), ('from', 826), ('one', 831), ('of', 835), ('the', 838), ('busy', 842), ('propeller', 847), ('blades', 857), ('a', 864), ('huge', 866), ('cloud', 871), ('swallowed', 877), ('up', 887), ('machine', 890), ('and', 898), ('aviator', 902), ('and', 910), ('they', 914), ('vanished', 919), ('like', 928), ('mist', 933)]
+-----------------------------------------------------
+Keywords: ('diabolical design', 'dreadful blades', 'several aëroplanes', 'quick turn', 'full speed')
+Paragraph: Tyler now observed several aëroplanes approaching at full speed, and
+realized he must end the chase quickly or be driven from his prey and
+prevented from carrying out his diabolical design. He made a quick turn
+to head off Orissa’s circle and the dreadful blades almost touched her
+lower plane as she dodged them. Tyler swept round again, but in his
+eagerness forgot his balance. Perhaps the man relied too much on the
+automatic device that had once brought Stephen to grief; anyway his
+aëroplane developed a side motion that nearly shook him from his seat.
+He tried in vain to restore the balance. The jar caused the motors to
+slip; the engines stopped dead; with a rending sound the huge planes
+collapsed and the wreck of Burthon’s biplane began to sink downward.
+Tyler was pitched headlong from his seat, but caught a rail and clung to
+it desperately as with ever increasing speed the fall to earth
+continued.
+------------------------------------------------------------------------
+[Illustration: THE RESCUE.]
+------------------------------------------------------------------------
+Words you probably do not know: desperately, wreck, grief, motion, lower
+CEFR level: B2
+Buttons: [('Tyler', 0), ('now', 6), ('observed', 10), ('several', 19), ('aëroplanes', 27), ('approaching', 38), ('at', 50), ('full', 53), ('speed', 58), ('and', 65), ('realized', 69), ('he', 78), ('must', 81), ('end', 86), ('the', 90), ('chase', 94), ('quickly', 100), ('or', 108), ('be', 111), ('driven', 114), ('from', 121), ('his', 126), ('prey', 130), ('and', 135), ('prevented', 139), ('from', 149), ('carrying', 154), ('out', 163), ('his', 167), ('diabolical', 171), ('design', 182), ('He', 190), ('made', 193), ('a', 198), ('quick', 200), ('turn', 206), ('to', 211), ('head', 214), ('off', 219), ('Orissa’s', 223), ('circle', 232), ('and', 239), ('the', 243), ('dreadful', 247), ('blades', 256), ('almost', 263), ('touched', 270), ('her', 278), ('lower', 282), ('plane', 288), ('as', 294), ('she', 297), ('dodged', 301), ('them', 308), ('Tyler', 314), ('swept', 320), ('round', 326), ('again', 332), ('but', 339), ('in', 343), ('his', 346), ('eagerness', 350), ('forgot', 360), ('his', 367), ('balance', 371), ('Perhaps', 380), ('the', 388), ('man', 392), ('relied', 396), ('too', 403), ('much', 407), ('on', 412), ('the', 415), ('automatic', 419), ('device', 429), ('that', 436), ('had', 441), ('once', 445), ('brought', 450), ('Stephen', 458), ('to', 466), ('grief', 469), ('anyway', 476), ('his', 483), ('aëroplane', 487), ('developed', 497), ('a', 507), ('side', 509), ('motion', 514), ('that', 521), ('nearly', 526), ('shook', 533), ('him', 539), ('from', 543), ('his', 548), ('seat', 552), ('He', 558), ('tried', 561), ('in', 567), ('vain', 570), ('to', 575), ('restore', 578), ('the', 586), ('balance', 590), ('The', 599), ('jar', 603), ('caused', 607), ('the', 614), ('motors', 618), ('to', 625), ('slip', 628), ('the', 634), ('engines', 638), ('stopped', 646), ('dead', 654), ('with', 660), ('a', 665), ('rending', 667), ('sound', 675), ('the', 681), ('huge', 685), ('planes', 690), ('collapsed', 697), ('and', 707), ('the', 711), ('wreck', 715), ('of', 721), ('Burthon’s', 724), ('biplane', 734), ('began', 742), ('to', 748), ('sink', 751), ('downward', 756), ('Tyler', 766), ('was', 772), ('pitched', 776), ('headlong', 784), ('from', 793), ('his', 798), ('seat', 802), ('but', 808), ('caught', 812), ('a', 819), ('rail', 821), ('and', 826), ('clung', 830), ('to', 836), ('it', 839), ('desperately', 842), ('as', 854), ('with', 857), ('ever', 862), ('increasing', 867), ('speed', 878), ('the', 884), ('fall', 888), ('to', 893), ('earth', 896), ('continued', 902), ('Illustration', 987), ('THE', 1001), ('RESCUE', 1005)]
+-----------------------------------------------------
+Keywords: ('professional aviators', 'charming qualities', 'orissa kane', 'performances', 'cleverness')
+Paragraph: Within he found Orissa the center of a group of aviators who were
+earnestly congratulating the girl on her escape and flooding her with
+compliments and praise for her skillful handling of the aëroplane. They
+were noble fellows, these professional aviators, and unselfish enough to
+be honestly enthusiastic over Miss Kane’s performances. The girl’s
+beauty and modesty won them at once, and adding these charming qualities
+to her cleverness and bravery, to-day fully proven, it is not difficult
+to understand why Orissa Kane from this moment became a prime favorite
+with every disciple of aviation.
+Words you probably do not know: noble, proven, prime, found, cleverness
+CEFR level: C2
+Buttons: [('Within', 0), ('he', 7), ('found', 10), ('Orissa', 16), ('the', 23), ('center', 27), ('of', 34), ('a', 37), ('group', 39), ('of', 45), ('aviators', 48), ('who', 57), ('were', 61), ('earnestly', 66), ('congratulating', 76), ('the', 91), ('girl', 95), ('on', 100), ('her', 103), ('escape', 107), ('and', 114), ('flooding', 118), ('her', 127), ('with', 131), ('compliments', 136), ('and', 148), ('praise', 152), ('for', 159), ('her', 163), ('skillful', 167), ('handling', 176), ('of', 185), ('the', 188), ('aëroplane', 192), ('They', 203), ('were', 208), ('noble', 213), ('fellows', 219), ('these', 228), ('professional', 234), ('aviators', 247), ('and', 257), ('unselfish', 261), ('enough', 271), ('to', 278), ('be', 281), ('honestly', 284), ('enthusiastic', 293), ('over', 306), ('Miss', 311), ('Kane’s', 316), ('performances', 323), ('The', 337), ('girl’s', 341), ('beauty', 348), ('and', 355), ('modesty', 359), ('won', 367), ('them', 371), ('at', 376), ('once', 379), ('and', 385), ('adding', 389), ('these', 396), ('charming', 402), ('qualities', 411), ('to', 421), ('her', 424), ('cleverness', 428), ('and', 439), ('bravery', 443), ('to', 452), ('day', 455), ('fully', 459), ('proven', 465), ('it', 473), ('is', 476), ('not', 479), ('difficult', 483), ('to', 493), ('understand', 496), ('why', 507), ('Orissa', 511), ('Kane', 518), ('from', 523), ('this', 528), ('moment', 533), ('became', 540), ('a', 547), ('prime', 549), ('favorite', 555), ('with', 564), ('every', 569), ('disciple', 575), ('of', 584), ('aviation', 587)]
+-----------------------------------------------------
+Keywords: ('reluctance', 'gentle voice', 'society', 'aëroplanes', 'menace')
+Paragraph: “My son,” said the boy’s mother, in her gentle voice, “can you afford to
+be less generous than Mr. Cumberford and—your sister?”
+Stephen flushed. Then he glanced toward Sybil and found the girl eyeing
+him curiously, expectantly.
+“Oh, well,” he said, with reluctance, “let him go. Such a fiend, at
+large, is a menace to society. That is why I wished to make an example
+of him. If aëroplanes are to be attacked in mid-air, after this, the
+dangers of aviation will be redoubled.”
+Words you probably do not know: generous, afford, found, fiend, menace
+CEFR level: A2
+Buttons: [('My', 1), ('son', 4), ('said', 10), ('the', 15), ('boy’s', 19), ('mother', 25), ('in', 33), ('her', 36), ('gentle', 40), ('voice', 47), ('can', 55), ('you', 59), ('afford', 63), ('to', 70), ('be', 73), ('less', 76), ('generous', 81), ('than', 90), ('Mr', 95), ('Cumberford', 99), ('and', 110), ('your', 114), ('sister', 119), ('Stephen', 128), ('flushed', 136), ('Then', 145), ('he', 150), ('glanced', 153), ('toward', 161), ('Sybil', 168), ('and', 174), ('found', 178), ('the', 184), ('girl', 188), ('eyeing', 193), ('him', 200), ('curiously', 204), ('expectantly', 215), ('Oh', 229), ('well', 233), ('he', 240), ('said', 243), ('with', 249), ('reluctance', 254), ('let', 267), ('him', 271), ('go', 275), ('Such', 279), ('a', 284), ('fiend', 286), ('at', 293), ('large', 296), ('is', 303), ('a', 306), ('menace', 308), ('to', 315), ('society', 318), ('That', 327), ('is', 332), ('why', 335), ('I', 339), ('wished', 341), ('to', 348), ('make', 351), ('an', 356), ('example', 359), ('of', 367), ('him', 370), ('If', 375), ('aëroplanes', 378), ('are', 389), ('to', 393), ('be', 396), ('attacked', 399), ('in', 408), ('mid', 411), ('air', 415), ('after', 420), ('this', 426), ('the', 432), ('dangers', 436), ('of', 444), ('aviation', 447), ('will', 456), ('be', 461), ('redoubled', 464)]
+-----------------------------------------------------
+Keywords: ('girl aviator', 'orissa kane', 'newspapers', 'reception', 'next day')
+Paragraph: The judges awarded the Kane Aircraft the ten thousand dollar prize, and
+singularly enough not a word of protest came from the competing
+aviators. Those who had attended the meet the day before, and thousands
+who read of Orissa Kane in the newspapers, eagerly assembled at
+Dominguez to witness her further exhibitions on the next day. It was
+estimated that fully fifty thousand people were in attendance, and when
+the Kane Aircraft appeared, decked with gay banners and ribbons, and
+made a short flight above the field, the girl aviator met with a
+reception such as has never before been equaled in the annals of
+aviation.
+Words you probably do not know: prize, gay, eagerly, attendance, estimated
+CEFR level: C1
+Buttons: [('The', 0), ('judges', 4), ('awarded', 11), ('the', 19), ('Kane', 23), ('Aircraft', 28), ('the', 37), ('ten', 41), ('thousand', 45), ('dollar', 54), ('prize', 61), ('and', 68), ('singularly', 72), ('enough', 83), ('not', 90), ('a', 94), ('word', 96), ('of', 101), ('protest', 104), ('came', 112), ('from', 117), ('the', 122), ('competing', 126), ('aviators', 136), ('Those', 146), ('who', 152), ('had', 156), ('attended', 160), ('the', 169), ('meet', 173), ('the', 178), ('day', 182), ('before', 186), ('and', 194), ('thousands', 198), ('who', 208), ('read', 212), ('of', 217), ('Orissa', 220), ('Kane', 227), ('in', 232), ('the', 235), ('newspapers', 239), ('eagerly', 251), ('assembled', 259), ('at', 269), ('Dominguez', 272), ('to', 282), ('witness', 285), ('her', 293), ('further', 297), ('exhibitions', 305), ('on', 317), ('the', 320), ('next', 324), ('day', 329), ('It', 334), ('was', 337), ('estimated', 341), ('that', 351), ('fully', 356), ('fifty', 362), ('thousand', 368), ('people', 377), ('were', 384), ('in', 389), ('attendance', 392), ('and', 404), ('when', 408), ('the', 413), ('Kane', 417), ('Aircraft', 422), ('appeared', 431), ('decked', 441), ('with', 448), ('gay', 453), ('banners', 457), ('and', 465), ('ribbons', 469), ('and', 478), ('made', 482), ('a', 487), ('short', 489), ('flight', 495), ('above', 502), ('the', 508), ('field', 512), ('the', 519), ('girl', 523), ('aviator', 528), ('met', 536), ('with', 540), ('a', 545), ('reception', 547), ('such', 557), ('as', 562), ('has', 565), ('never', 569), ('before', 575), ('been', 582), ('equaled', 587), ('in', 595), ('the', 598), ('annals', 602), ('of', 609), ('aviation', 612)]
+-----------------------------------------------------
+Keywords: ('clever aviators', 'indebtedness', 'colossal debt', 'preparation', 'pioneers')
+Paragraph: 
+The author wishes to acknowledge her indebtedness to Mr. Glenn H.
+Curtiss and Mr. Wilbur Wright for courtesies extended during the
+preparation of this manuscript. These skillful and clever aviators,
+pioneers to whom the Art of Flying owes a colossal debt, do not laugh at
+any suggestion concerning the future of the aëroplane, for they
+recognize the fact that the discoveries and inventions of the next year
+may surpass all that have gone before. The world is agog with wonder at
+what has been accomplished; even now it is anticipating the time when
+vehicles of the air will be more numerous than are automobiles to-day.
+Words you probably do not know: acknowledge, numerous, preparation, debt, concerning
+CEFR level: C1
+Buttons: [('The', 1), ('author', 5), ('wishes', 12), ('to', 19), ('acknowledge', 22), ('her', 34), ('indebtedness', 38), ('to', 51), ('Mr', 54), ('Glenn', 58), ('H', 64), ('Curtiss', 67), ('and', 75), ('Mr', 79), ('Wilbur', 83), ('Wright', 90), ('for', 97), ('courtesies', 101), ('extended', 112), ('during', 121), ('the', 128), ('preparation', 132), ('of', 144), ('this', 147), ('manuscript', 152), ('These', 164), ('skillful', 170), ('and', 179), ('clever', 183), ('aviators', 190), ('pioneers', 200), ('to', 209), ('whom', 212), ('the', 217), ('Art', 221), ('of', 225), ('Flying', 228), ('owes', 235), ('a', 240), ('colossal', 242), ('debt', 251), ('do', 257), ('not', 260), ('laugh', 264), ('at', 270), ('any', 273), ('suggestion', 277), ('concerning', 288), ('the', 299), ('future', 303), ('of', 310), ('the', 313), ('aëroplane', 317), ('for', 328), ('they', 332), ('recognize', 337), ('the', 347), ('fact', 351), ('that', 356), ('the', 361), ('discoveries', 365), ('and', 377), ('inventions', 381), ('of', 392), ('the', 395), ('next', 399), ('year', 404), ('may', 409), ('surpass', 413), ('all', 421), ('that', 425), ('have', 430), ('gone', 435), ('before', 440), ('The', 448), ('world', 452), ('is', 458), ('with', 466), ('wonder', 471), ('at', 478), ('what', 481), ('has', 486), ('been', 490), ('accomplished', 495), ('even', 509), ('now', 514), ('it', 518), ('is', 521), ('anticipating', 524), ('the', 537), ('time', 541), ('when', 546), ('vehicles', 551), ('of', 560), ('the', 563), ('air', 567), ('will', 571), ('be', 576), ('more', 579), ('numerous', 584), ('than', 593), ('are', 598), ('automobiles', 602), ('to', 614), ('day', 617)]
+-----------------------------------------------------
+Keywords: ('successful aviators', 'mechanism', 'propellers', 'crude devices', 'vital principle')
+Paragraph: “So they do; they fly, after a fashion,” admitted the young man, “which
+fully proves the thing can be accomplished. But present machines are all
+too complicated, and the planes seem to have been shaped by guesswork,
+rather than common sense. They fuss with motors and propellers and
+ignore the sustaining mechanism, which is the most vital principle of
+all. Some day we shall see the sky full of successful aviators, and
+flying will be as common as automobiling now is; but when that time
+comes we shall laugh at the crude devices they brag of to-day.”
+Words you probably do not know: principle, brag, vital, crude, mechanism
+CEFR level: B1
+Buttons: [('So', 1), ('they', 4), ('do', 9), ('they', 13), ('fly', 18), ('after', 23), ('a', 29), ('fashion', 31), ('admitted', 41), ('the', 50), ('young', 54), ('man', 60), ('which', 66), ('fully', 72), ('proves', 78), ('the', 85), ('thing', 89), ('can', 95), ('be', 99), ('accomplished', 102), ('But', 116), ('present', 120), ('machines', 128), ('are', 137), ('all', 141), ('too', 145), ('complicated', 149), ('and', 162), ('the', 166), ('planes', 170), ('seem', 177), ('to', 182), ('have', 185), ('been', 190), ('shaped', 195), ('by', 202), ('guesswork', 205), ('rather', 216), ('than', 223), ('common', 228), ('sense', 235), ('They', 242), ('fuss', 247), ('with', 252), ('motors', 257), ('and', 264), ('propellers', 268), ('and', 279), ('ignore', 283), ('the', 290), ('sustaining', 294), ('mechanism', 305), ('which', 316), ('is', 322), ('the', 325), ('most', 329), ('vital', 334), ('principle', 340), ('of', 350), ('all', 353), ('Some', 358), ('day', 363), ('we', 367), ('shall', 370), ('see', 376), ('the', 380), ('sky', 384), ('full', 388), ('of', 393), ('successful', 396), ('aviators', 407), ('and', 417), ('flying', 421), ('will', 428), ('be', 433), ('as', 436), ('common', 439), ('as', 446), ('automobiling', 449), ('now', 462), ('is', 466), ('but', 470), ('when', 474), ('that', 479), ('time', 484), ('comes', 489), ('we', 495), ('shall', 498), ('laugh', 504), ('at', 510), ('the', 513), ('crude', 517), ('devices', 523), ('they', 531), ('brag', 536), ('of', 541), ('to', 544), ('day', 547)]
+-----------------------------------------------------
+Keywords: ('wonderful flights', 'greatest aviator', 'first time hoxsey', 'chauffeur', 'dominguez field')
+Paragraph: The boy was still employed in this manner when the Aviation Meet was
+held at Dominguez Field and Paulhan accomplished the wonderful flights
+that made him world famous. Of course, Orissa and Stephen were present
+and did not miss a single event. On the grand stand beside them sat a
+young fellow Stephen had often met at the automobile shop, a chauffeur
+named Arch Hoxsey. It was the first time Hoxsey had ever seen an
+aëroplane, and neither he nor Stephen could guess that within one year
+this novice would become the greatest aviator in all the world. These
+are days when, comet-like, a heretofore unknown aviator appears,
+accomplishes marvels and disappears, eclipsed by some new master of the
+art of flying. It is the same way with aëroplanes; the leading one
+to-day is within a brief period destined to be surpassed by a greatly
+improved machine.
+Words you probably do not know: leading, neither, improved, grand, master
+CEFR level: C1
+Buttons: [('The', 0), ('boy', 4), ('was', 8), ('still', 12), ('employed', 18), ('in', 27), ('this', 30), ('manner', 35), ('when', 42), ('the', 47), ('Aviation', 51), ('Meet', 60), ('was', 65), ('held', 69), ('at', 74), ('Dominguez', 77), ('Field', 87), ('and', 93), ('Paulhan', 97), ('accomplished', 105), ('the', 118), ('wonderful', 122), ('flights', 132), ('that', 140), ('made', 145), ('him', 150), ('world', 154), ('famous', 160), ('Of', 168), ('course', 171), ('Orissa', 179), ('and', 186), ('Stephen', 190), ('were', 198), ('present', 203), ('and', 211), ('did', 215), ('not', 219), ('miss', 223), ('a', 228), ('single', 230), ('event', 237), ('On', 244), ('the', 247), ('grand', 251), ('stand', 257), ('beside', 263), ('them', 270), ('sat', 275), ('a', 279), ('young', 281), ('fellow', 287), ('Stephen', 294), ('had', 302), ('often', 306), ('met', 312), ('at', 316), ('the', 319), ('automobile', 323), ('shop', 334), ('a', 340), ('chauffeur', 342), ('named', 352), ('Arch', 358), ('Hoxsey', 363), ('It', 371), ('was', 374), ('the', 378), ('first', 382), ('time', 388), ('Hoxsey', 393), ('had', 400), ('ever', 404), ('seen', 409), ('an', 414), ('aëroplane', 417), ('and', 428), ('neither', 432), ('he', 440), ('nor', 443), ('Stephen', 447), ('could', 455), ('guess', 461), ('that', 467), ('within', 472), ('one', 479), ('year', 483), ('this', 488), ('novice', 493), ('would', 500), ('become', 506), ('the', 513), ('greatest', 517), ('aviator', 526), ('in', 534), ('all', 537), ('the', 541), ('world', 545), ('These', 552), ('are', 558), ('days', 562), ('when', 567), ('comet', 573), ('like', 579), ('a', 585), ('heretofore', 587), ('unknown', 598), ('aviator', 606), ('appears', 614), ('accomplishes', 623), ('marvels', 636), ('and', 644), ('disappears', 648), ('eclipsed', 660), ('by', 669), ('some', 672), ('new', 677), ('master', 681), ('of', 688), ('the', 691), ('art', 695), ('of', 699), ('flying', 702), ('It', 710), ('is', 713), ('the', 716), ('same', 720), ('way', 725), ('with', 729), ('aëroplanes', 734), ('the', 746), ('leading', 750), ('one', 758), ('to', 762), ('day', 765), ('is', 769), ('within', 772), ('a', 779), ('brief', 781), ('period', 787), ('destined', 794), ('to', 803), ('be', 806), ('surpassed', 809), ('by', 819), ('a', 822), ('greatly', 824), ('improved', 832), ('machine', 841)]
+-----------------------------------------------------
+Keywords: ('lateral balance', 'new inventions', 'fault', 'automatic device', 'miles')
+Paragraph: “A fault of the lateral balance. My automatic device refused to work,
+and before I knew it I had lost control.”
+She stood gazing thoughtfully down at the wreck. Her brother had really
+invented a flying machine, of that there was no doubt. She had seen it
+fly—seen it soar miles through the air—and knew that a certain degree of
+success had been obtained. There was something wrong, to be sure; there
+usually is with new inventions; but wrongs can be righted.
+Words you probably do not know: been, balance, device, soar, wreck
+CEFR level: A2
+Buttons: [('A', 1), ('fault', 3), ('of', 9), ('the', 12), ('lateral', 16), ('balance', 24), ('My', 33), ('automatic', 36), ('device', 46), ('refused', 53), ('to', 61), ('work', 64), ('and', 70), ('before', 74), ('I', 81), ('knew', 83), ('it', 88), ('I', 91), ('had', 93), ('lost', 97), ('control', 102), ('She', 112), ('stood', 116), ('gazing', 122), ('thoughtfully', 129), ('down', 142), ('at', 147), ('the', 150), ('wreck', 154), ('Her', 161), ('brother', 165), ('had', 173), ('really', 177), ('invented', 184), ('a', 193), ('flying', 195), ('machine', 202), ('of', 211), ('that', 214), ('there', 219), ('was', 225), ('no', 229), ('doubt', 232), ('She', 239), ('had', 243), ('seen', 247), ('it', 252), ('fly', 255), ('seen', 259), ('it', 264), ('soar', 267), ('miles', 272), ('through', 278), ('the', 286), ('air', 290), ('and', 294), ('knew', 298), ('that', 303), ('a', 308), ('certain', 310), ('degree', 318), ('of', 325), ('success', 328), ('had', 336), ('been', 340), ('obtained', 345), ('There', 355), ('was', 361), ('something', 365), ('wrong', 375), ('to', 382), ('be', 385), ('sure', 388), ('there', 394), ('usually', 400), ('is', 408), ('with', 411), ('new', 416), ('inventions', 420), ('but', 432), ('wrongs', 436), ('can', 443), ('be', 447), ('righted', 450)]
+-----------------------------------------------------
+Keywords: ('catechism', 'fears', 'aëroplanes', 'lips', 'steve')
+Paragraph: The girl’s lips curled scornfully, as if she impugned this statement;
+but she remained silent for a while before continuing her catechism.
+Then she asked:
+“Do you mean to try flying?”
+“Perhaps so, some day,” said Orissa, smiling; “when aëroplanes have
+become so common that my fears are dissipated. But, really, I haven’t
+given the matter a thought. That is Steve’s business, just now. All I’m
+trying to do is help him get ready.”
+Words you probably do not know: given, while, silent, scornfully, trying
+CEFR level: A2
+Buttons: [('The', 0), ('girl’s', 4), ('lips', 11), ('curled', 16), ('scornfully', 23), ('as', 35), ('if', 38), ('she', 41), ('impugned', 45), ('this', 54), ('statement', 59), ('but', 70), ('she', 74), ('remained', 78), ('silent', 87), ('for', 94), ('a', 98), ('while', 100), ('before', 106), ('continuing', 113), ('her', 124), ('catechism', 128), ('Then', 139), ('she', 144), ('asked', 148), ('Do', 156), ('you', 159), ('mean', 163), ('to', 168), ('try', 171), ('flying', 175), ('Perhaps', 185), ('so', 193), ('some', 197), ('day', 202), ('said', 208), ('Orissa', 213), ('smiling', 221), ('when', 231), ('aëroplanes', 236), ('have', 247), ('become', 252), ('so', 259), ('common', 262), ('that', 269), ('my', 274), ('fears', 277), ('are', 283), ('dissipated', 287), ('But', 299), ('really', 304), ('I', 312), ('haven’t', 314), ('given', 322), ('the', 328), ('matter', 332), ('a', 339), ('thought', 341), ('That', 350), ('is', 355), ('Steve’s', 358), ('business', 366), ('just', 376), ('now', 381), ('All', 386), ('I’m', 390), ('trying', 394), ('to', 401), ('do', 404), ('is', 407), ('help', 410), ('him', 415), ('get', 419), ('ready', 423)]
+-----------------------------------------------------
+Keywords: ('international aviation meet', 'famous aviators', 'los angeles', 'glenn curtiss', 'civilized world')
+Paragraph: This was the 17th of December, and on January first the great
+International Aviation Meet was to be held at Los Angeles, with such
+famous aviators present as the Wright Brothers, Glenn Curtiss, Hubert
+Latham, Arch Hoxsey, their old friend Willard, Parmalee, Ely, Brookins,
+Radley and many others. Mr. Cumberford had entered Stephen Kane for this
+important meet and the young man was booked to take part in the
+endurance and speed tests and to make an attempt to break the world’s
+record for altitude—all in his own flyer, the Kane Aircraft. So swift a
+transition from obscurity to popularity—or at least to the attention of
+the civilized world—was enough to turn the head of anyone; but as yet
+Steve seemed all unaware of his own importance.
+Words you probably do not know: endurance, altitude, swift, popularity, transition
+CEFR level: C2
+Buttons: [('This', 0), ('was', 5), ('the', 9), ('17th', 13), ('of', 18), ('December', 21), ('and', 31), ('on', 35), ('January', 38), ('first', 46), ('the', 52), ('great', 56), ('International', 62), ('Aviation', 76), ('Meet', 85), ('was', 90), ('to', 94), ('be', 97), ('held', 100), ('at', 105), ('Los', 108), ('Angeles', 112), ('with', 121), ('such', 126), ('famous', 131), ('aviators', 138), ('present', 147), ('as', 155), ('the', 158), ('Wright', 162), ('Brothers', 169), ('Glenn', 179), ('Curtiss', 185), ('Hubert', 194), ('Latham', 201), ('Arch', 209), ('Hoxsey', 214), ('their', 222), ('old', 228), ('friend', 232), ('Willard', 239), ('Parmalee', 248), ('Ely', 258), ('Brookins', 263), ('Radley', 273), ('and', 280), ('many', 284), ('others', 289), ('Mr', 297), ('Cumberford', 301), ('had', 312), ('entered', 316), ('Stephen', 324), ('Kane', 332), ('for', 337), ('this', 341), ('important', 346), ('meet', 356), ('and', 361), ('the', 365), ('young', 369), ('man', 375), ('was', 379), ('booked', 383), ('to', 390), ('take', 393), ('part', 398), ('in', 403), ('the', 406), ('endurance', 410), ('and', 420), ('speed', 424), ('tests', 430), ('and', 436), ('to', 440), ('make', 443), ('an', 448), ('attempt', 451), ('to', 459), ('break', 462), ('the', 468), ('world’s', 472), ('record', 480), ('for', 487), ('altitude', 491), ('all', 500), ('in', 504), ('his', 507), ('own', 511), ('flyer', 515), ('the', 522), ('Kane', 526), ('Aircraft', 531), ('So', 541), ('swift', 544), ('a', 550), ('transition', 552), ('from', 563), ('obscurity', 568), ('to', 578), ('popularity', 581), ('or', 592), ('at', 595), ('least', 598), ('to', 604), ('the', 607), ('attention', 611), ('of', 621), ('the', 624), ('civilized', 628), ('world', 638), ('was', 644), ('enough', 648), ('to', 655), ('turn', 658), ('the', 663), ('head', 667), ('of', 672), ('anyone', 675), ('but', 683), ('as', 687), ('yet', 690), ('Steve', 694), ('seemed', 700), ('all', 707), ('unaware', 711), ('of', 719), ('his', 722), ('own', 726), ('importance', 730)]
+-----------------------------------------------------
+Keywords: ('old aviators', 'novelties', 'other aëroplanes', 'centuries', 'performances')
+Paragraph: “That isn’t to be expected,” returned Burthon. “I’m not backing you to
+excel the performances of the old aviators; that isn’t my point. The
+improvements and novelties we have to show will take the wind out of the
+sails of all other aëroplanes and result in a flood of orders. Comparing
+machine for machine, we’re years in advance of the Wrights and
+Curtiss—and centuries ahead of those foreign devices.”
+“Perhaps,” admitted Tot. “But Kane’s aëroplane is practically the same
+as your own, and it is still on the programme.”
+“It won’t fly, though,” declared Burthon, with a laugh. “Don’t worry
+about anything but your own work, Tyler. Leave all the rest to me.”
+Words you probably do not know: advance, rest, practically, excel, expected
+CEFR level: A2
+Buttons: [('That', 1), ('isn’t', 6), ('to', 12), ('be', 15), ('expected', 18), ('returned', 29), ('Burthon', 38), ('I’m', 48), ('not', 52), ('backing', 56), ('you', 64), ('to', 68), ('excel', 71), ('the', 77), ('performances', 81), ('of', 94), ('the', 97), ('old', 101), ('aviators', 105), ('that', 115), ('isn’t', 120), ('my', 126), ('point', 129), ('The', 136), ('improvements', 140), ('and', 153), ('novelties', 157), ('we', 167), ('have', 170), ('to', 175), ('show', 178), ('will', 183), ('take', 188), ('the', 193), ('wind', 197), ('out', 202), ('of', 206), ('the', 209), ('sails', 213), ('of', 219), ('all', 222), ('other', 226), ('aëroplanes', 232), ('and', 243), ('result', 247), ('in', 254), ('a', 257), ('flood', 259), ('of', 265), ('orders', 268), ('Comparing', 276), ('machine', 286), ('for', 294), ('machine', 298), ('we’re', 307), ('years', 313), ('in', 319), ('advance', 322), ('of', 330), ('the', 333), ('Wrights', 337), ('and', 345), ('Curtiss', 349), ('and', 357), ('centuries', 361), ('ahead', 371), ('of', 377), ('those', 380), ('foreign', 386), ('devices', 394), ('Perhaps', 405), ('admitted', 415), ('Tot', 424), ('But', 430), ('Kane’s', 434), ('is', 451), ('practically', 454), ('the', 466), ('same', 470), ('as', 475), ('your', 478), ('own', 483), ('and', 488), ('it', 492), ('is', 495), ('still', 498), ('on', 504), ('the', 507), ('programme', 511), ('It', 524), ('won’t', 527), ('fly', 533), ('though', 538), ('declared', 547), ('Burthon', 556), ('with', 565), ('a', 570), ('laugh', 572), ('Don’t', 580), ('worry', 586), ('about', 592), ('anything', 598), ('but', 607), ('your', 611), ('own', 616), ('work', 620), ('Tyler', 626), ('Leave', 633), ('all', 639), ('the', 643), ('rest', 647), ('to', 652), ('me', 655)]
+-----------------------------------------------------
+Keywords: ('widespread publicity', 'famous aviators', 'marvelous flights', 'totham tyler', 'newspapers')
+Paragraph: By this time Burthon had begun a campaign of widespread publicity, and
+in spite of the long list of famous aviators in the city the newspapers
+were filled with pictures of the Burthon device and accounts of the
+marvelous flights of Totham Tyler. Nothing more was heard of the Kane
+Aircraft, but the public had not forgotten it and many were puzzled that
+two local aëroplane makers should be exhibiting identically the same
+improvements, each claiming to have originated them. As for the visiting
+aviators, they were interested, but held their peace. The performances
+at the coming competition would tell the story of supremacy, and
+whatever good points were displayed by the local inventors could
+doubtless be adapted to their own craft. They waited, therefore, for
+proof of the glowing claims made in the newspapers. Many promising
+inventions have turned out to be failures.
+Words you probably do not know: device, puzzled, spite, publicity, campaign
+CEFR level: C2
+Buttons: [('By', 0), ('this', 3), ('time', 8), ('Burthon', 13), ('had', 21), ('begun', 25), ('a', 31), ('campaign', 33), ('of', 42), ('widespread', 45), ('publicity', 56), ('and', 67), ('in', 71), ('spite', 74), ('of', 80), ('the', 83), ('long', 87), ('list', 92), ('of', 97), ('famous', 100), ('aviators', 107), ('in', 116), ('the', 119), ('city', 123), ('the', 128), ('newspapers', 132), ('were', 143), ('filled', 148), ('with', 155), ('pictures', 160), ('of', 169), ('the', 172), ('Burthon', 176), ('device', 184), ('and', 191), ('accounts', 195), ('of', 204), ('the', 207), ('marvelous', 211), ('flights', 221), ('of', 229), ('Totham', 232), ('Tyler', 239), ('Nothing', 246), ('more', 254), ('was', 259), ('heard', 263), ('of', 269), ('the', 272), ('Kane', 276), ('Aircraft', 281), ('but', 291), ('the', 295), ('public', 299), ('had', 306), ('not', 310), ('forgotten', 314), ('it', 324), ('and', 327), ('many', 331), ('were', 336), ('puzzled', 341), ('that', 349), ('two', 354), ('local', 358), ('aëroplane', 364), ('makers', 374), ('should', 381), ('be', 388), ('exhibiting', 391), ('identically', 402), ('the', 414), ('same', 418), ('improvements', 423), ('each', 437), ('claiming', 442), ('to', 451), ('have', 454), ('originated', 459), ('them', 470), ('As', 476), ('for', 479), ('the', 483), ('visiting', 487), ('aviators', 496), ('they', 506), ('were', 511), ('interested', 516), ('but', 528), ('held', 532), ('their', 537), ('peace', 543), ('The', 550), ('performances', 554), ('at', 567), ('the', 570), ('coming', 574), ('competition', 581), ('would', 593), ('tell', 599), ('the', 604), ('story', 608), ('of', 614), ('supremacy', 617), ('and', 628), ('whatever', 632), ('good', 641), ('points', 646), ('were', 653), ('displayed', 658), ('by', 668), ('the', 671), ('local', 675), ('inventors', 681), ('could', 691), ('doubtless', 697), ('be', 707), ('adapted', 710), ('to', 718), ('their', 721), ('own', 727), ('craft', 731), ('They', 738), ('waited', 743), ('therefore', 751), ('for', 762), ('proof', 766), ('of', 772), ('the', 775), ('glowing', 779), ('claims', 787), ('made', 794), ('in', 799), ('the', 802), ('newspapers', 806), ('Many', 818), ('promising', 823), ('inventions', 833), ('have', 844), ('turned', 849), ('out', 856), ('to', 860), ('be', 863), ('failures', 866)]
+-----------------------------------------------------
+Keywords: ('passenger airships', 'original sky motoress', 'successful aviators', 'future vocation', 'whimsical glance')
+Paragraph: “The most successful aviators of the future,” remarked Stephen,
+thoughtfully, “are bound to be women. As a rule they are lighter than
+men, more supple and active, quick of perception and less liable to lose
+their heads in emergencies. The operation of an aëroplane is, it seems
+to me, especially fitted to women.”
+“Ah!” exclaimed Sybil, with a whimsical glance at the speaker, “I have
+discovered my future vocation. I shall aviate parties of atmospheric
+tourists. When the passenger airships are introduced I’ll become the
+original sky motoress, and so win fame and fortune.”
+Steve laughed, but shook his head.
+Words you probably do not know: active, perception, fame, supple, atmospheric
+CEFR level: A2
+Buttons: [('The', 1), ('most', 5), ('successful', 10), ('aviators', 21), ('of', 30), ('the', 33), ('future', 37), ('remarked', 46), ('Stephen', 55), ('thoughtfully', 64), ('are', 79), ('bound', 83), ('to', 89), ('be', 92), ('women', 95), ('As', 102), ('a', 105), ('rule', 107), ('they', 112), ('are', 117), ('lighter', 121), ('than', 129), ('men', 134), ('more', 139), ('supple', 144), ('and', 151), ('active', 155), ('quick', 163), ('of', 169), ('perception', 172), ('and', 183), ('less', 187), ('liable', 192), ('to', 199), ('lose', 202), ('their', 207), ('heads', 213), ('in', 219), ('emergencies', 222), ('The', 235), ('operation', 239), ('of', 249), ('an', 252), ('aëroplane', 255), ('is', 265), ('it', 269), ('seems', 272), ('to', 278), ('me', 281), ('especially', 285), ('fitted', 296), ('to', 303), ('women', 306), ('Ah', 315), ('exclaimed', 320), ('Sybil', 330), ('with', 337), ('a', 342), ('whimsical', 344), ('glance', 354), ('at', 361), ('the', 364), ('speaker', 368), ('I', 378), ('have', 380), ('discovered', 385), ('my', 396), ('future', 399), ('vocation', 406), ('I', 416), ('shall', 418), ('aviate', 424), ('parties', 431), ('of', 439), ('tourists', 454), ('When', 464), ('the', 469), ('passenger', 473), ('airships', 483), ('are', 492), ('introduced', 496), ('I’ll', 507), ('become', 512), ('the', 519), ('original', 523), ('sky', 532), ('motoress', 536), ('and', 546), ('so', 550), ('win', 553), ('fame', 557), ('and', 562), ('fortune', 566), ('Steve', 576), ('laughed', 582), ('but', 591), ('shook', 595), ('his', 601), ('head', 605)]
+-----------------------------------------------------
+Keywords: ('peculiar construction', 'prior performance', 'applause burst', 'grand stand', 'slender form')
+Paragraph: Suddenly, while the field was clear and half a dozen aëroplanes hovered
+in the air above it, the Kane Aircraft rolled into the open space,
+circled before the grand stand and then, gracefully and without effort,
+mounted into the air.
+Those who had witnessed Stephen’s prior performance were not astonished
+at this unassisted rise from earth to air, but all were delighted by the
+grace and beauty of the ascent and a roar of applause burst
+spontaneously from the crowd. The peculiar construction of the aircraft
+so diverted attention from its aviator that few marked the slender form
+of Orissa, or knew that a girl was making this daring flight.
+Words you probably do not know: aircraft, grand, prior, unassisted, spontaneously
+CEFR level: C2
+Buttons: [('Suddenly', 0), ('while', 10), ('the', 16), ('field', 20), ('was', 26), ('clear', 30), ('and', 36), ('half', 40), ('a', 45), ('dozen', 47), ('aëroplanes', 53), ('hovered', 64), ('in', 72), ('the', 75), ('air', 79), ('above', 83), ('it', 89), ('the', 93), ('Kane', 97), ('Aircraft', 102), ('rolled', 111), ('into', 118), ('the', 123), ('open', 127), ('space', 132), ('circled', 139), ('before', 147), ('the', 154), ('grand', 158), ('stand', 164), ('and', 170), ('then', 174), ('gracefully', 180), ('and', 191), ('without', 195), ('effort', 203), ('mounted', 211), ('into', 219), ('the', 224), ('air', 228), ('Those', 233), ('who', 239), ('had', 243), ('witnessed', 247), ('Stephen’s', 257), ('prior', 267), ('performance', 273), ('were', 285), ('not', 290), ('astonished', 294), ('at', 305), ('this', 308), ('unassisted', 313), ('rise', 324), ('from', 329), ('earth', 334), ('to', 340), ('air', 343), ('but', 348), ('all', 352), ('were', 356), ('delighted', 361), ('by', 371), ('the', 374), ('grace', 378), ('and', 384), ('beauty', 388), ('of', 395), ('the', 398), ('ascent', 402), ('and', 409), ('a', 413), ('roar', 415), ('of', 420), ('applause', 423), ('burst', 432), ('spontaneously', 438), ('from', 452), ('the', 457), ('crowd', 461), ('The', 468), ('peculiar', 472), ('construction', 481), ('of', 494), ('the', 497), ('so', 510), ('diverted', 513), ('attention', 522), ('from', 532), ('its', 537), ('aviator', 541), ('that', 549), ('few', 554), ('marked', 558), ('the', 565), ('slender', 569), ('form', 577), ('of', 582), ('Orissa', 585), ('or', 593), ('knew', 596), ('that', 601), ('a', 606), ('girl', 608), ('was', 613), ('making', 617), ('this', 624), ('daring', 629), ('flight', 636)]
+-----------------------------------------------------
+Keywords: ('inclined ascent', 'fascination', 'other aëroplanes', 'other contestants', 'ground orissa')
+Paragraph: A dozen feet from the ground Orissa reined in her Pegasus and glided
+over the group of hangars on her inclined ascent—the third she had made
+without alighting. There were other aëroplanes doing interesting
+“stunts,” and each aviator seemed to be exercising his ingenuity to
+excel all others, yet the eyes of the crowd followed the Kane Aircraft
+with an absorbed fascination that relegated other contestants to the
+rear.
+Words you probably do not know: dozen, fascination, excel, rear, ingenuity
+CEFR level: C2
+Buttons: [('A', 0), ('dozen', 2), ('feet', 8), ('from', 13), ('the', 18), ('ground', 22), ('Orissa', 29), ('reined', 36), ('in', 43), ('her', 46), ('Pegasus', 50), ('and', 58), ('glided', 62), ('over', 69), ('the', 74), ('group', 78), ('of', 84), ('hangars', 87), ('on', 95), ('her', 98), ('inclined', 102), ('ascent', 111), ('the', 118), ('third', 122), ('she', 128), ('had', 132), ('made', 136), ('without', 141), ('alighting', 149), ('There', 160), ('were', 166), ('other', 171), ('aëroplanes', 177), ('doing', 188), ('interesting', 194), ('stunts', 207), ('and', 216), ('each', 220), ('aviator', 225), ('seemed', 233), ('to', 240), ('be', 243), ('exercising', 246), ('his', 257), ('ingenuity', 261), ('to', 271), ('excel', 274), ('all', 280), ('others', 284), ('yet', 292), ('the', 296), ('eyes', 300), ('of', 305), ('the', 308), ('crowd', 312), ('followed', 318), ('the', 327), ('Kane', 331), ('Aircraft', 336), ('with', 345), ('an', 350), ('absorbed', 353), ('fascination', 362), ('that', 374), ('relegated', 379), ('other', 389), ('contestants', 395), ('to', 407), ('the', 410), ('rear', 414)]
+-----------------------------------------------------
+Keywords: ('marvelous things', 'other aëroplanes', 'far north', 'young inventor', 'good points half')
+Paragraph: “Nor I,” admitted the young inventor, modestly. “It really seems like a
+thing of life under her management, and I am sure I could not have
+exhibited its good points half as well as little Ris is doing.”
+“Are any other aëroplanes flying?” Mrs. Kane inquired.
+“Oh, yes,” said Sybil. “There are several in the air, doing really
+marvelous things; but all seem to keep away from Orissa and are more to
+the south of us. There’s one, though!” she added suddenly. “Isn’t that
+an aëroplane coming from the far north, Steve?”
+Words you probably do not know: north, south, suddenly, management, inventor
+CEFR level: A1
+Buttons: [('Nor', 1), ('I', 5), ('admitted', 9), ('the', 18), ('young', 22), ('inventor', 28), ('modestly', 38), ('It', 49), ('really', 52), ('seems', 59), ('like', 65), ('a', 70), ('thing', 72), ('of', 78), ('life', 81), ('under', 86), ('her', 92), ('management', 96), ('and', 108), ('I', 112), ('am', 114), ('sure', 117), ('I', 122), ('could', 124), ('not', 130), ('have', 134), ('exhibited', 139), ('its', 149), ('good', 153), ('points', 158), ('half', 165), ('as', 170), ('well', 173), ('as', 178), ('little', 181), ('Ris', 188), ('is', 192), ('doing', 195), ('Are', 204), ('any', 208), ('other', 212), ('aëroplanes', 218), ('flying', 229), ('Mrs', 238), ('Kane', 243), ('inquired', 248), ('Oh', 259), ('yes', 263), ('said', 269), ('Sybil', 274), ('There', 282), ('are', 288), ('several', 292), ('in', 300), ('the', 303), ('air', 307), ('doing', 312), ('really', 318), ('marvelous', 325), ('things', 335), ('but', 343), ('all', 347), ('seem', 351), ('to', 356), ('keep', 359), ('away', 364), ('from', 369), ('Orissa', 374), ('and', 381), ('are', 385), ('more', 389), ('to', 394), ('the', 397), ('south', 401), ('of', 407), ('us', 410), ('There’s', 414), ('one', 422), ('though', 427), ('she', 436), ('added', 440), ('suddenly', 446), ('Isn’t', 457), ('that', 463), ('an', 468), ('aëroplane', 471), ('coming', 481), ('from', 488), ('the', 493), ('far', 497), ('north', 501), ('Steve', 508)]
+-----------------------------------------------------
+Keywords: ('assistants', 'thorough education', 'air currents', 'aëronautics', 'other aëroplanes')
+Paragraph: “You see,” she said to Chesty Todd, who stood beside her in the hangar
+on the last day of the meet while she watched Mr. Cumberford and his
+assistants preparing the aircraft for its final flight, “Stephen has a
+thorough education in aëronautics and knows the caprices and
+requirements of the atmosphere as well as a gardener knows his earth.
+The machine is adjusted to all those variations and demands, and that is
+why it accomplishes with ease much that other aëroplanes find difficult.
+A child might operate the Kane Aircraft, and I feel perfectly at ease in
+my seat, no matter how high I am or how conflicting the air currents;
+for Steve’s machine will do exactly what it is built to do.”
+Words you probably do not know: thorough, atmosphere, gardener, ease, aircraft
+CEFR level: A2
+Buttons: [('You', 1), ('see', 5), ('she', 11), ('said', 15), ('to', 20), ('Chesty', 23), ('Todd', 30), ('who', 36), ('stood', 40), ('beside', 46), ('her', 53), ('in', 57), ('the', 60), ('hangar', 64), ('on', 71), ('the', 74), ('last', 78), ('day', 83), ('of', 87), ('the', 90), ('meet', 94), ('while', 99), ('she', 105), ('watched', 109), ('Mr', 117), ('Cumberford', 121), ('and', 132), ('his', 136), ('assistants', 140), ('preparing', 151), ('the', 161), ('for', 174), ('its', 178), ('final', 182), ('flight', 188), ('Stephen', 197), ('has', 205), ('a', 209), ('thorough', 211), ('education', 220), ('in', 230), ('aëronautics', 233), ('and', 245), ('knows', 249), ('the', 255), ('caprices', 259), ('and', 268), ('requirements', 272), ('of', 285), ('the', 288), ('atmosphere', 292), ('as', 303), ('well', 306), ('as', 311), ('a', 314), ('gardener', 316), ('knows', 325), ('his', 331), ('earth', 335), ('The', 342), ('machine', 346), ('is', 354), ('adjusted', 357), ('to', 366), ('all', 369), ('those', 373), ('variations', 379), ('and', 390), ('demands', 394), ('and', 403), ('that', 407), ('is', 412), ('why', 415), ('it', 419), ('accomplishes', 422), ('with', 435), ('ease', 440), ('much', 445), ('that', 450), ('other', 455), ('aëroplanes', 461), ('find', 472), ('difficult', 477), ('A', 488), ('child', 490), ('might', 496), ('operate', 502), ('the', 510), ('Kane', 514), ('Aircraft', 519), ('and', 529), ('I', 533), ('feel', 535), ('perfectly', 540), ('at', 550), ('ease', 553), ('in', 558), ('my', 561), ('seat', 564), ('no', 570), ('matter', 573), ('how', 580), ('high', 584), ('I', 589), ('am', 591), ('or', 594), ('how', 597), ('conflicting', 601), ('the', 613), ('air', 617), ('currents', 621), ('for', 631), ('Steve’s', 635), ('machine', 643), ('will', 651), ('do', 656), ('exactly', 659), ('what', 667), ('it', 672), ('is', 675), ('built', 678), ('to', 684), ('do', 687)]
+-----------------------------------------------------
+Keywords: ('other aviators', 'prestige', 'exertion', 'advantage', 'aeronaut')
+Paragraph: “I’ll never be able to run the thing as you can, Ris,” he replied, “and
+you mustn’t overlook the fact that your being a girl gives you as great
+an advantage over me, as an aeronaut, as over all other aviators. I
+think Mr. Cumberford is right in saying that the advertising and
+prestige you have already received will enable you to win a fortune for
+us—provided you are willing to assume the risk and exertion, and if
+mother will consent.”
+Words you probably do not know: provided, overlook, prestige, willing, consent
+CEFR level: C1
+Buttons: [('I’ll', 1), ('never', 6), ('be', 12), ('able', 15), ('to', 20), ('run', 23), ('the', 27), ('thing', 31), ('as', 37), ('you', 40), ('can', 44), ('Ris', 49), ('he', 55), ('replied', 58), ('and', 68), ('you', 72), ('mustn’t', 76), ('overlook', 84), ('the', 93), ('fact', 97), ('that', 102), ('your', 107), ('being', 112), ('a', 118), ('girl', 120), ('gives', 125), ('you', 131), ('as', 135), ('great', 138), ('an', 144), ('advantage', 147), ('over', 157), ('me', 162), ('as', 166), ('an', 169), ('aeronaut', 172), ('as', 182), ('over', 185), ('all', 190), ('other', 194), ('aviators', 200), ('I', 210), ('think', 212), ('Mr', 218), ('Cumberford', 222), ('is', 233), ('right', 236), ('in', 242), ('saying', 245), ('that', 252), ('the', 257), ('advertising', 261), ('and', 273), ('prestige', 277), ('you', 286), ('have', 290), ('already', 295), ('received', 303), ('will', 312), ('enable', 317), ('you', 324), ('to', 328), ('win', 331), ('a', 335), ('fortune', 337), ('for', 345), ('us', 349), ('provided', 352), ('you', 361), ('are', 365), ('willing', 369), ('to', 377), ('assume', 380), ('the', 387), ('risk', 391), ('and', 396), ('exertion', 400), ('and', 410), ('if', 414), ('mother', 417), ('will', 424), ('consent', 429)]
+-----------------------------------------------------
