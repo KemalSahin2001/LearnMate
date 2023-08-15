@@ -1,9 +1,9 @@
-import nltk
 from nltk.corpus import stopwords
-import string
 import re
-
 import unicodedata
+import spacy
+
+nlp = spacy.load('en_core_web_lg')
 
 punctuations = []
 
@@ -22,18 +22,19 @@ def process_text(paragraph):
     last_index = 0
     for word in words:
         start_position = paragraph.find(word, last_index)
-        word_positions.append((word, start_position, "button"))
+        word_positions.append((word, start_position))
         last_index = start_position + len(word)
     
-    # Remove stopwords
-    stop_words = set(stopwords.words('english'))
-    word_positions = [(word, start, "stop-word") if word.lower() in stop_words else (word, start, lbl) for word, start, lbl in word_positions]
+    # Process the paragraph with spacy
+    doc = nlp(paragraph.lower())
     
-    # Identify and remove proper nouns
-    pos_tags = nltk.pos_tag([word for word, _, _ in word_positions])
-    word_positions = [(word, start, "proper-noun") if tag in ['NNP', 'NNPS'] else (word, start, label) for (word, start, label), (_, tag) in zip(word_positions, pos_tags)]
-    
+    # Create a set of proper nouns for efficient look-up
+    proper_nouns = set(tok.text for tok in doc if tok.pos_ == 'PROPN')
+
+    # Filter out proper nouns from word_positions
+    word_positions = [(word, start) for word, start in word_positions if word not in proper_nouns]
+
     # Remove punctuation
-    word_positions = [(word, start,lbl) for word, start,lbl in word_positions if word not in punctuations]
+    word_positions = [(word, start) for word, start in word_positions if word not in punctuations]
 
     return word_positions
