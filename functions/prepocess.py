@@ -1,7 +1,6 @@
 from pdfminer.high_level import extract_text
 import re
 from nltk.stem import PorterStemmer
-from functions import Labeling
 
 def extract_pdf(filename):
     text = extract_text(filename)
@@ -77,5 +76,4 @@ def prepocess(path):
     text = '\n\n'.join(paragraphs)
     text = foreword_split(text)
     paragraphs = text.split("\n\n")
-    label = Labeling.label(paragraphs)
-    return paragraphs,text,label
+    return paragraphs,text

@@ -26,7 +26,7 @@ stop_words = [
 ]
 
 #Cursed words should be added.
-def findRelevantParagraphs(paragraphs, keywords,text,model,stop_words,n = 10,relevant_paragraphs = []):
+def findRelevantParagraphs(paragraphs, keywords,text,model,stop_words,n = 5,relevant_paragraphs = []):
     for paragraph in paragraphs:
         count_keywords = 0
         for keyword in keywords:
@@ -37,7 +37,7 @@ def findRelevantParagraphs(paragraphs, keywords,text,model,stop_words,n = 10,rel
     
     if(len(relevant_paragraphs) < 10):        
         keywords = model.extract_keywords(text, keyphrase_ngram_range=(1,1), diversity=0.2,top_n=n+5,stop_words=stop_words,use_maxsum=True,use_mmr=True)
-        findRelevantParagraphs(paragraphs,keywords,text,model,stop_words,n+5,relevant_paragraphs)
+        findRelevantParagraphs(paragraphs,keywords,text,model,stop_words,n+2,relevant_paragraphs)
     return relevant_paragraphs 
 
 def extract(paragraphs,book):
@@ -58,8 +58,7 @@ def extract(paragraphs,book):
 
         keyword_dict[tuple(keywords)] = paragraph
 
-
-    return keyword_dict
+    return keyword_dict,relevant_paragraphs
 
 
 
