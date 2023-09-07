@@ -1,10 +1,7 @@
 from keybert import KeyBERT
 from transformers import RobertaTokenizer, RobertaModel
 from keyphrase_vectorizers import KeyphraseCountVectorizer
-
-kw_model = KeyBERT()
-keybert_model = KeyBERT("roberta-base")
-
+import logging
 stop_words = [
     "a", "about", "above", "after", "again", "against", "ain", "all", "am", "an", "and", "any", 
     "are", "aren", "as", "at", "be", "because", "been", "before", "being", "below", "between", 
@@ -41,7 +38,11 @@ def findRelevantParagraphs(paragraphs, keywords,text,model,stop_words,n = 5,rele
     return relevant_paragraphs 
 
 def extract(paragraphs,book):
-    
+    logging.basicConfig(level=logging.ERROR)
+    logging.getLogger("transformers").setLevel(logging.ERROR)
+    logging.getLogger("sentence_transformers").setLevel(logging.ERROR)
+    kw_model = KeyBERT()
+    keybert_model = KeyBERT("roberta-base")
     keywordsKeybert = kw_model.extract_keywords(book, keyphrase_ngram_range=(1,1), diversity=0.2,top_n=5,stop_words=stop_words,use_maxsum=True,use_mmr=True)
     relevant_paragraphs = findRelevantParagraphs(paragraphs,keywordsKeybert,book,kw_model,stop_words)
     relevant_paragraphs = sorted(relevant_paragraphs, key=lambda p: sum([1 for keyword in keywordsKeybert if keyword[0] in p]), reverse=True)
@@ -58,7 +59,7 @@ def extract(paragraphs,book):
 
         keyword_dict[tuple(keywords)] = paragraph
 
-    return keyword_dict,relevant_paragraphs
+    return keyword_dict
 
 
 
