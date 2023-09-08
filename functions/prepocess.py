@@ -1,14 +1,16 @@
 from pdfminer.high_level import extract_text
 import re
 from nltk.stem import PorterStemmer
+from pathlib import Path
 
 def extract_pdf(filename):
     text = extract_text(filename)
     return text
 
 def read_txt(txt_path):
-    with open(txt_path, "r") as txt_file:
-        return txt_file.read()
+    path = Path(txt_path)
+    text = path.read_text()
+    return text
 
 def filter_gutenberg_parts(paragraphs):
     # Define regular expressions to match Gutenberg-related parts
@@ -28,38 +30,77 @@ def foreword_split(text):
         return text.split(re.search(foreword_regex, text).group(0))[1]
     return text
 
-def splitParagraph(paragraphs):
-    i = 0
-    while i < len(paragraphs):
-        current_paragraph = paragraphs[i]
-        current_paragraph_word_count = len(current_paragraph.split())
+def splitParagraph(paragraphs, upper_limit=250):
+    while True:
+        i = 0
+        merge_occurred = False
 
-        if current_paragraph_word_count <= 50:
-            # Check the previous paragraph
-            if i > 0 and i < len(paragraphs) - 1:
-                if len(paragraphs[i-1].split()) <= len(paragraphs[i+1].split()):
-                    merged_paragraph = paragraphs[i-1] + "\n" + current_paragraph
-                    paragraphs[i-1] = merged_paragraph
-                    del paragraphs[i]
-                    continue
-                else:
-                    merged_paragraph = current_paragraph + "\n" + paragraphs[i+1]
+        while i < len(paragraphs):
+            current_paragraph = paragraphs[i].strip()
+            
+            if not current_paragraph:
+                i += 1
+                continue
+
+            current_paragraph_word_count = len(current_paragraph.split())
+
+            # Split longer paragraphs
+            if current_paragraph_word_count > upper_limit:
+                words = current_paragraph.split()
+                split_index = upper_limit // 2  # default split point
+                
+                # find the nearest sentence end after the default split point
+                for j in range(upper_limit // 2, upper_limit):
+                    if words[j][-1] in [".", "?", "!"]:
+                        split_index = j + 1
+                        break
+
+                # form new paragraphs after splitting
+                new_paragraph_1 = ' '.join(words[:split_index])
+                new_paragraph_2 = ' '.join(words[split_index:])
+                paragraphs[i] = new_paragraph_1
+                paragraphs.insert(i + 1, new_paragraph_2)
+                merge_occurred = True
+                continue
+
+            # Merge shorter paragraphs
+            elif current_paragraph_word_count <= 50:
+                # If it's the first paragraph
+                if i == 0:
+                    merged_paragraph = current_paragraph + " " + paragraphs[i+1]
                     paragraphs[i+1] = merged_paragraph
                     del paragraphs[i]
+                    merge_occurred = True
                     continue
-            elif i == 0:
-                merged_paragraph = current_paragraph + "\n" + paragraphs[1]
-                paragraphs[1] = merged_paragraph
-                del paragraphs[0]
-                continue
-            elif i == len(paragraphs) - 1:
-                merged_paragraph = paragraphs[i-1] + "\n" + current_paragraph
-                paragraphs[i-1] = merged_paragraph
-                del paragraphs[i]
-                continue
+                # If it's the last paragraph
+                elif i == len(paragraphs) - 1:
+                    merged_paragraph = paragraphs[i-1] + " " + current_paragraph
+                    paragraphs[i-1] = merged_paragraph
+                    del paragraphs[i]
+                    merge_occurred = True
+                    continue
+                # Otherwise
+                else:
+                    # Conditions to decide which paragraph to merge with
+                    if current_paragraph[-1] in [":", "\"", "-", "?"]:
+                        merged_paragraph = current_paragraph + " " + paragraphs[i+1]
+                        paragraphs[i+1] = merged_paragraph
+                        del paragraphs[i]
+                        merge_occurred = True
+                        continue
+                    else:
+                        merged_paragraph = paragraphs[i-1] + " " + current_paragraph
+                        paragraphs[i-1] = merged_paragraph
+                        del paragraphs[i]
+                        merge_occurred = True
+                        continue
 
+            i += 1
 
-        i += 1
+        if not merge_occurred:
+            break
+
+    return paragraphs
 
 def prepocess(path):
     # Getting rid of the Gutenberg parts

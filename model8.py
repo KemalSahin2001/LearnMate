@@ -7,8 +7,8 @@ from functions import Labeling
 import warnings 
 warnings.filterwarnings("ignore")
 
-paragraphs,text = pre.prepocess("pdfs\\alchemist.pdf")
-keyword_dict,relevant_paragraphs = kw.extract(paragraphs,text)
+paragraphs,text = pre.prepocess("pdfs\\2 B R 0 2 B.txt")
+keyword_dict = kw.extract(paragraphs,text)
 
 
 # Open the output file for writing-
@@ -25,4 +25,5 @@ with open('output.txt', 'w') as file:
         file.write("CEFR level: " + str(cefr_level) + "\n")
         file.write("Label: " + str(Labeling.label(paragraph)) + "\n")
         file.write("Buttons: " + str(buttons) + "\n")
+        #file.write("Paragraph: " + str(paragraph) + "\n")
         file.write("-----------------------------------------------------\n")

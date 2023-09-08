@@ -5,7 +5,7 @@ df = pd.read_csv('output.csv')
 
 score_data = dict(zip(df['word'], df['final_score']))
 
-nlp = spacy.load('en_core_web_sm')  # or another model, depending on your language
+nlp = spacy.load('en_core_web_lg')  # or another model, depending on your language
 
 def tokenize(text):
     doc = nlp(text)
