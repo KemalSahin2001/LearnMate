@@ -31,22 +31,28 @@ stop_words = [
 
 #Cursed words should be added.
 def findRelevantParagraphs(paragraphs, keywords, text, model, stop_words, n=5):
-    relevant_paragraphs = []
+    relevant_paragraphs = {}
+    
+    while len(relevant_paragraphs) < 20:
+        for paragraph in paragraphs:
+            count_keywords = sum(1 for keyword in keywords if keyword[0] in paragraph)
+            
+            # Only considering paragraphs with more than one keyword
+            if count_keywords > 1:
+                # Using a dictionary to ensure unique paragraphs and keep track of keyword counts
+                relevant_paragraphs[paragraph] = count_keywords
 
-    for paragraph in paragraphs:
-        count_keywords = 0
-        for keyword in keywords:
-            if keyword[0] in paragraph:
-                count_keywords += 1
-        if count_keywords >= 2 and paragraph not in relevant_paragraphs:
-            relevant_paragraphs.append(paragraph)
+        if len(relevant_paragraphs) >= 20:
+            break
 
-    if len(relevant_paragraphs) < 10:
+        # Refine keyword list if not enough relevant paragraphs found
         keywords = model.extract_keywords(text, keyphrase_ngram_range=(1, 1), diversity=0.2, top_n=n+5, 
                                           stop_words=stop_words, use_maxsum=True, use_mmr=True)
-        relevant_paragraphs += findRelevantParagraphs(paragraphs, keywords, text, model, stop_words, n+2)
+        n += 2
 
-    return relevant_paragraphs
+    # Sorting by keyword count and then taking the top 20
+    sorted_paragraphs = sorted(relevant_paragraphs, key=relevant_paragraphs.get, reverse=True)
+    return sorted_paragraphs[:20]
 
 
 def extract(paragraphs,book):

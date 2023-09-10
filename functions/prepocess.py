@@ -31,9 +31,17 @@ def foreword_split(text):
     return text
 
 def splitParagraph(paragraphs, upper_limit=250):
+    iteration_count = 0
+    MAX_ITERATIONS = 10  # Arbitrary number to check for potential infinite loop
+
     while True:
         i = 0
         merge_occurred = False
+        iteration_count += 1
+
+        if iteration_count > MAX_ITERATIONS:
+            upper_limit += 50
+            iteration_count = 0  # Reset iteration count
 
         while i < len(paragraphs):
             current_paragraph = paragraphs[i].strip()
