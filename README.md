@@ -1,3 +1,3 @@
-# model8
+# LearnMate
 
 CEFR level and keyword extraction methods has been implemented.
